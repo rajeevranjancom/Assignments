@@ -1,0 +1,16 @@
+body{
+	margin: 0; padding: 0; background-color: goldenrod;
+
+}
+
+p{
+	margin: 20px;
+}
+
+li{
+	color: blue;
+}
+
+h1{
+	color: red;
+}
