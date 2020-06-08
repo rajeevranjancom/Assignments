@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Login System || Local Storage</title>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.1/css/bootstrap.min.css">
+</head>
+<body>
+    <div class="container">
+        <div class="row mt-5">
+            <div class="col-6 offset-3 mt-5">
+                <div class="card mt-5">
+                    <div class="card-header bg-info text-white text-center">
+                        <h5>Calculate Sum</h5>
+                    </div>
+                    <div class="card-body">
+                        <p class="alert alert-danger invisible">Errors</p>
+                        <form action="#">
+                            <div class="input-group my-3">
+                                <div class="input-group-prepend">
+                                    <div class="input-group-text">N</div>
+                                </div>
+                                <input type="num" placeholder="Enter n Values" class="form-control nvalue" onclick="clearpartially()" required>
+                            </div>
+                            <div class="input-group my-3">
+                                <div class="input-group-prepend">
+                                    <div class="input-group-text">K</div>
+                                </div>
+                                <input type="num" placeholder="Enter k Values" class="form-control kvalue" onclick="clearpartially()" required>
+                            </div>
+                            <div class="form-group my-3 d-inline-block">
+                                <input type="submit" value="Calculate" class="btn btn-outline-info">
+                            </div>
+                            <div class="input-group">
+                                <div class="input-group-prepend">
+                                    <div class="input-group-text">Result</div>
+                                </div>
+                                <input type="text" class='form-control result'>
+                            </div>
+                        </form>
+                        <div class="form-group my-3 d-inline-block">
+                            <button class="btn btn-outline-info" onClick="clearall()">Clear All</button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo"
+    crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js" integrity="sha384-ZMP7rVo3mIykV+2+9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK/l8WvCWPIPm49"
+    crossorigin="anonymous"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.1/js/bootstrap.min.js" integrity="sha384-smHYKdLADwkXOn1EmN1qk/HfnUcbVRZyYmZ4qpPea6sjB/pTJ0euyQp0Mk8ck+5T"
+    crossorigin="anonymous"></script>
+    <script src="app.js"></script>
+</body>
+</html>
