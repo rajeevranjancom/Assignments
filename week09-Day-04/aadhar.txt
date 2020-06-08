@@ -1,0 +1,5 @@
+Name         : Rajeev Ranjan,
+AadharNumber : 8683-1901-2222,
+DOB          : 3/01/1998,
+Address      : A.C.Gardens, Rajahmundry,
+Gender       : Male
