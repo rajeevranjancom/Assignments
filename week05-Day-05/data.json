@@ -1,0 +1,5402 @@
+[
+    {
+      "letter": "A",
+      "shape": [
+        {
+          "shape": "square",
+          "color": [
+            {
+              "type": "green",
+              "legs": [
+                {
+                  "number": 1,
+                  "hands": [
+                    {
+                      "number": 1,
+                      "code": "sq-gr-11A"
+                    },
+                    {
+                      "number": 2,
+                      "code": "sq-gr-12A"
+                    },
+                    {
+                      "number": 3,
+                      "code": "sq-gr-13A"
+                    },
+                    {
+                      "number": 4,
+                      "code": "sq-gr-14A"
+                    },
+                    {
+                      "number": 5,
+                      "code": "sq-gr-15A"
+                    },
+                    {
+                      "number": 6,
+                      "code": "sq-gr-16A"
+                    }
+                  ]
+                },
+                {
+                  "number": 2,
+                  "hands": [
+                    {
+                      "number": 1,
+                      "code": "sq-gr-21A"
+                    },
+                    {
+                      "number": 2,
+                      "code": "sq-gr-22A"
+                    },
+                    {
+                      "number": 3,
+                      "code": "sq-gr-23A"
+                    },
+                    {
+                      "number": 4,
+                      "code": "sq-gr-24A"
+                    },
+                    {
+                      "number": 5,
+                      "code": "sq-gr-25A"
+                    },
+                    {
+                      "number": 6,
+                      "code": "sq-gr-26A"
+                    }
+                  ]
+                },
+                {
+                  "number": 3,
+                  "hands": [
+                    {
+                      "number": 1,
+                      "code": "sq-gr-31A"
+                    },
+                    {
+                      "number": 2,
+                      "code": "sq-gr-32A"
+                    },
+                    {
+                      "number": 3,
+                      "code": "sq-gr-33A"
+                    },
+                    {
+                      "number": 4,
+                      "code": "sq-gr-34A"
+                    },
+                    {
+                      "number": 5,
+                      "code": "sq-gr-35A"
+                    },
+                    {
+                      "number": 6,
+                      "code": "sq-gr-36A"
+                    }
+                  ]
+                },
+                {
+                  "number": 4,
+                  "hands": [
+                    {
+                      "number": 1,
+                      "code": "sq-gr-41A"
+                    },
+                    {
+                      "number": 2,
+                      "code": "sq-gr-42A"
+                    },
+                    {
+                      "number": 3,
+                      "code": "sq-gr-43A"
+                    },
+                    {
+                      "number": 4,
+                      "code": "sq-gr-44A"
+                    },
+                    {
+                      "number": 5,
+                      "code": "sq-gr-45A"
+                    },
+                    {
+                      "number": 6,
+                      "code": "sq-gr-46A"
+                    }
+                  ]
+                },
+                {
+                  "number": 5,
+                  "hands": [
+                    {
+                      "number": 1,
+                      "code": "sq-gr-51A"
+                    },
+                    {
+                      "number": 2,
+                      "code": "sq-gr-52A"
+                    },
+                    {
+                      "number": 3,
+                      "code": "sq-gr-53A"
+                    },
+                    {
+                      "number": 4,
+                      "code": "sq-gr-54A"
+                    },
+                    {
+                      "number": 5,
+                      "code": "sq-gr-55A"
+                    },
+                    {
+                      "number": 6,
+                      "code": "sq-gr-56A"
+                    }
+                  ]
+                },
+                {
+                  "number": 6,
+                  "hands": [
+                    {
+                      "number": 1,
+                      "code": "sq-gr-61A"
+                    },
+                    {
+                      "number": 2,
+                      "code": "sq-gr-62A"
+                    },
+                    {
+                      "number": 3,
+                      "code": "sq-gr-63A"
+                    },
+                    {
+                      "number": 4,
+                      "code": "sq-gr-64A"
+                    },
+                    {
+                      "number": 5,
+                      "code": "sq-gr-65A"
+                    },
+                    {
+                      "number": 6,
+                      "code": "sq-gr-66A"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "blue",
+              "legs": [
+                {
+                  "number": 1,
+                  "hands": [
+                    {
+                      "number": 1,
+                      "code": "sq-bl-11A"
+                    },
+                    {
+                      "number": 2,
+                      "code": "sq-bl-12A"
+                    },
+                    {
+                      "number": 3,
+                      "code": "sq-bl-13A"
+                    },
+                    {
+                      "number": 4,
+                      "code": "sq-bl-14A"
+                    },
+                    {
+                      "number": 5,
+                      "code": "sq-bl-15A"
+                    },
+                    {
+                      "number": 6,
+                      "code": "sq-bl-16A"
+                    }
+                  ]
+                },
+                {
+                  "number": 2,
+                  "hands": [
+                    {
+                      "number": 1,
+                      "code": "sq-bl-21A"
+                    },
+                    {
+                      "number": 2,
+                      "code": "sq-bl-22A"
+                    },
+                    {
+                      "number": 3,
+                      "code": "sq-bl-23A"
+                    },
+                    {
+                      "number": 4,
+                      "code": "sq-bl-24A"
+                    },
+                    {
+                      "number": 5,
+                      "code": "sq-bl-25A"
+                    },
+                    {
+                      "number": 6,
+                      "code": "sq-bl-26A"
+                    }
+                  ]
+                },
+                {
+                  "number": 3,
+                  "hands": [
+                    {
+                      "number": 1,
+                      "code": "sq-bl-31A"
+                    },
+                    {
+                      "number": 2,
+                      "code": "sq-bl-32A"
+                    },
+                    {
+                      "number": 3,
+                      "code": "sq-bl-33A"
+                    },
+                    {
+                      "number": 4,
+                      "code": "sq-bl-34A"
+                    },
+                    {
+                      "number": 5,
+                      "code": "sq-bl-35A"
+                    },
+                    {
+                      "number": 6,
+                      "code": "sq-bl-36A"
+                    }
+                  ]
+                },
+                {
+                  "number": 4,
+                  "hands": [
+                    {
+                      "number": 1,
+                      "code": "sq-bl-41A"
+                    },
+                    {
+                      "number": 2,
+                      "code": "sq-bl-42A"
+                    },
+                    {
+                      "number": 3,
+                      "code": "sq-bl-43A"
+                    },
+                    {
+                      "number": 4,
+                      "code": "sq-bl-44A"
+                    },
+                    {
+                      "number": 5,
+                      "code": "sq-bl-45A"
+                    },
+                    {
+                      "number": 6,
+                      "code": "sq-bl-46A"
+                    }
+                  ]
+                },
+                {
+                  "number": 5,
+                  "hands": [
+                    {
+                      "number": 1,
+                      "code": "sq-bl-51A"
+                    },
+                    {
+                      "number": 2,
+                      "code": "sq-bl-52A"
+                    },
+                    {
+                      "number": 3,
+                      "code": "sq-bl-53A"
+                    },
+                    {
+                      "number": 4,
+                      "code": "sq-bl-54A"
+                    },
+                    {
+                      "number": 5,
+                      "code": "sq-bl-55A"
+                    },
+                    {
+                      "number": 6,
+                      "code": "sq-bl-56A"
+                    }
+                  ]
+                },
+                {
+                  "number": 6,
+                  "hands": [
+                    {
+                      "number": 1,
+                      "code": "sq-bl-61A"
+                    },
+                    {
+                      "number": 2,
+                      "code": "sq-bl-62A"
+                    },
+                    {
+                      "number": 3,
+                      "code": "sq-bl-63A"
+                    },
+                    {
+                      "number": 4,
+                      "code": "sq-bl-64A"
+                    },
+                    {
+                      "number": 5,
+                      "code": "sq-bl-65A"
+                    },
+                    {
+                      "number": 6,
+                      "code": "sq-bl-66A"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "crimson",
+              "legs": [
+                {
+                  "number": 1,
+                  "hands": [
+                    {
+                      "number": 1,
+                      "code": "sq-cr-11A"
+                    },
+                    {
+                      "number": 2,
+                      "code": "sq-cr-12A"
+                    },
+                    {
+                      "number": 3,
+                      "code": "sq-cr-13A"
+                    },
+                    {
+                      "number": 4,
+                      "code": "sq-cr-14A"
+                    },
+                    {
+                      "number": 5,
+                      "code": "sq-cr-15A"
+                    },
+                    {
+                      "number": 6,
+                      "code": "sq-cr-16A"
+                    }
+                  ]
+                },
+                {
+                  "number": 2,
+                  "hands": [
+                    {
+                      "number": 1,
+                      "code": "sq-cr-21A"
+                    },
+                    {
+                      "number": 2,
+                      "code": "sq-cr-22A"
+                    },
+                    {
+                      "number": 3,
+                      "code": "sq-cr-23A"
+                    },
+                    {
+                      "number": 4,
+                      "code": "sq-cr-24A"
+                    },
+                    {
+                      "number": 5,
+                      "code": "sq-cr-25A"
+                    },
+                    {
+                      "number": 6,
+                      "code": "sq-cr-26A"
+                    }
+                  ]
+                },
+                {
+                  "number": 3,
+                  "hands": [
+                    {
+                      "number": 1,
+                      "code": "sq-cr-31A"
+                    },
+                    {
+                      "number": 2,
+                      "code": "sq-cr-32A"
+                    },
+                    {
+                      "number": 3,
+                      "code": "sq-cr-33A"
+                    },
+                    {
+                      "number": 4,
+                      "code": "sq-cr-34A"
+                    },
+                    {
+                      "number": 5,
+                      "code": "sq-cr-35A"
+                    },
+                    {
+                      "number": 6,
+                      "code": "sq-cr-36A"
+                    }
+                  ]
+                },
+                {
+                  "number": 4,
+                  "hands": [
+                    {
+                      "number": 1,
+                      "code": "sq-cr-41A"
+                    },
+                    {
+                      "number": 2,
+                      "code": "sq-cr-42A"
+                    },
+                    {
+                      "number": 3,
+                      "code": "sq-cr-43A"
+                    },
+                    {
+                      "number": 4,
+                      "code": "sq-cr-44A"
+                    },
+                    {
+                      "number": 5,
+                      "code": "sq-cr-45A"
+                    },
+                    {
+                      "number": 6,
+                      "code": "sq-cr-46A"
+                    }
+                  ]
+                },
+                {
+                  "number": 5,
+                  "hands": [
+                    {
+                      "number": 1,
+                      "code": "sq-cr-51A"
+                    },
+                    {
+                      "number": 2,
+                      "code": "sq-cr-52A"
+                    },
+                    {
+                      "number": 3,
+                      "code": "sq-cr-53A"
+                    },
+                    {
+                      "number": 4,
+                      "code": "sq-cr-54A"
+                    },
+                    {
+                      "number": 5,
+                      "code": "sq-cr-55A"
+                    },
+                    {
+                      "number": 6,
+                      "code": "sq-cr-56A"
+                    }
+                  ]
+                },
+                {
+                  "number": 6,
+                  "hands": [
+                    {
+                      "number": 1,
+                      "code": "sq-cr-61A"
+                    },
+                    {
+                      "number": 2,
+                      "code": "sq-cr-62A"
+                    },
+                    {
+                      "number": 3,
+                      "code": "sq-cr-63A"
+                    },
+                    {
+                      "number": 4,
+                      "code": "sq-cr-64A"
+                    },
+                    {
+                      "number": 5,
+                      "code": "sq-cr-65A"
+                    },
+                    {
+                      "number": 6,
+                      "code": "sq-cr-66A"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "yellow",
+              "legs": [
+                {
+                  "number": 1,
+                  "hands": [
+                    {
+                      "number": 1,
+                      "code": "sq-ye-11A"
+                    },
+                    {
+                      "number": 2,
+                      "code": "sq-ye-12A"
+                    },
+                    {
+                      "number": 3,
+                      "code": "sq-ye-13A"
+                    },
+                    {
+                      "number": 4,
+                      "code": "sq-ye-14A"
+                    },
+                    {
+                      "number": 5,
+                      "code": "sq-ye-15A"
+                    },
+                    {
+                      "number": 6,
+                      "code": "sq-ye-16A"
+                    }
+                  ]
+                },
+                {
+                  "number": 2,
+                  "hands": [
+                    {
+                      "number": 1,
+                      "code": "sq-ye-21A"
+                    },
+                    {
+                      "number": 2,
+                      "code": "sq-ye-22A"
+                    },
+                    {
+                      "number": 3,
+                      "code": "sq-ye-23A"
+                    },
+                    {
+                      "number": 4,
+                      "code": "sq-ye-24A"
+                    },
+                    {
+                      "number": 5,
+                      "code": "sq-ye-25A"
+                    },
+                    {
+                      "number": 6,
+                      "code": "sq-ye-26A"
+                    }
+                  ]
+                },
+                {
+                  "number": 3,
+                  "hands": [
+                    {
+                      "number": 1,
+                      "code": "sq-ye-31A"
+                    },
+                    {
+                      "number": 2,
+                      "code": "sq-ye-32A"
+                    },
+                    {
+                      "number": 3,
+                      "code": "sq-ye-33A"
+                    },
+                    {
+                      "number": 4,
+                      "code": "sq-ye-34A"
+                    },
+                    {
+                      "number": 5,
+                      "code": "sq-ye-35A"
+                    },
+                    {
+                      "number": 6,
+                      "code": "sq-ye-36A"
+                    }
+                  ]
+                },
+                {
+                  "number": 4,
+                  "hands": [
+                    {
+                      "number": 1,
+                      "code": "sq-ye-41A"
+                    },
+                    {
+                      "number": 2,
+                      "code": "sq-ye-42A"
+                    },
+                    {
+                      "number": 3,
+                      "code": "sq-ye-43A"
+                    },
+                    {
+                      "number": 4,
+                      "code": "sq-ye-44A"
+                    },
+                    {
+                      "number": 5,
+                      "code": "sq-ye-45A"
+                    },
+                    {
+                      "number": 6,
+                      "code": "sq-ye-46A"
+                    }
+                  ]
+                },
+                {
+                  "number": 5,
+                  "hands": [
+                    {
+                      "number": 1,
+                      "code": "sq-ye-51A"
+                    },
+                    {
+                      "number": 2,
+                      "code": "sq-ye-52A"
+                    },
+                    {
+                      "number": 3,
+                      "code": "sq-ye-53A"
+                    },
+                    {
+                      "number": 4,
+                      "code": "sq-ye-54A"
+                    },
+                    {
+                      "number": 5,
+                      "code": "sq-ye-55A"
+                    },
+                    {
+                      "number": 6,
+                      "code": "sq-ye-56A"
+                    }
+                  ]
+                },
+                {
+                  "number": 6,
+                  "hands": [
+                    {
+                      "number": 1,
+                      "code": "sq-ye-61A"
+                    },
+                    {
+                      "number": 2,
+                      "code": "sq-ye-62A"
+                    },
+                    {
+                      "number": 3,
+                      "code": "sq-ye-63A"
+                    },
+                    {
+                      "number": 4,
+                      "code": "sq-ye-64A"
+                    },
+                    {
+                      "number": 5,
+                      "code": "sq-ye-65A"
+                    },
+                    {
+                      "number": 6,
+                      "code": "sq-ye-66A"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "peach",
+              "legs": [
+                {
+                  "number": 1,
+                  "hands": [
+                    {
+                      "number": 1,
+                      "code": "sq-pe-11A"
+                    },
+                    {
+                      "number": 2,
+                      "code": "sq-pe-12A"
+                    },
+                    {
+                      "number": 3,
+                      "code": "sq-pe-13A"
+                    },
+                    {
+                      "number": 4,
+                      "code": "sq-pe-14A"
+                    },
+                    {
+                      "number": 5,
+                      "code": "sq-pe-15A"
+                    },
+                    {
+                      "number": 6,
+                      "code": "sq-pe-16A"
+                    }
+                  ]
+                },
+                {
+                  "number": 2,
+                  "hands": [
+                    {
+                      "number": 1,
+                      "code": "sq-pe-21A"
+                    },
+                    {
+                      "number": 2,
+                      "code": "sq-pe-22A"
+                    },
+                    {
+                      "number": 3,
+                      "code": "sq-pe-23A"
+                    },
+                    {
+                      "number": 4,
+                      "code": "sq-pe-24A"
+                    },
+                    {
+                      "number": 5,
+                      "code": "sq-pe-25A"
+                    },
+                    {
+                      "number": 6,
+                      "code": "sq-pe-26A"
+                    }
+                  ]
+                },
+                {
+                  "number": 3,
+                  "hands": [
+                    {
+                      "number": 1,
+                      "code": "sq-pe-31A"
+                    },
+                    {
+                      "number": 2,
+                      "code": "sq-pe-32A"
+                    },
+                    {
+                      "number": 3,
+                      "code": "sq-pe-33A"
+                    },
+                    {
+                      "number": 4,
+                      "code": "sq-pe-34A"
+                    },
+                    {
+                      "number": 5,
+                      "code": "sq-pe-35A"
+                    },
+                    {
+                      "number": 6,
+                      "code": "sq-pe-36A"
+                    }
+                  ]
+                },
+                {
+                  "number": 4,
+                  "hands": [
+                    {
+                      "number": 1,
+                      "code": "sq-pe-41A"
+                    },
+                    {
+                      "number": 2,
+                      "code": "sq-pe-42A"
+                    },
+                    {
+                      "number": 3,
+                      "code": "sq-pe-43A"
+                    },
+                    {
+                      "number": 4,
+                      "code": "sq-pe-44A"
+                    },
+                    {
+                      "number": 5,
+                      "code": "sq-pe-45A"
+                    },
+                    {
+                      "number": 6,
+                      "code": "sq-pe-46A"
+                    }
+                  ]
+                },
+                {
+                  "number": 5,
+                  "hands": [
+                    {
+                      "number": 1,
+                      "code": "sq-pe-51A"
+                    },
+                    {
+                      "number": 2,
+                      "code": "sq-pe-52A"
+                    },
+                    {
+                      "number": 3,
+                      "code": "sq-pe-53A"
+                    },
+                    {
+                      "number": 4,
+                      "code": "sq-pe-54A"
+                    },
+                    {
+                      "number": 5,
+                      "code": "sq-pe-55A"
+                    },
+                    {
+                      "number": 6,
+                      "code": "sq-pe-56A"
+                    }
+                  ]
+                },
+                {
+                  "number": 6,
+                  "hands": [
+                    {
+                      "number": 1,
+                      "code": "sq-pe-61A"
+                    },
+                    {
+                      "number": 2,
+                      "code": "sq-pe-62A"
+                    },
+                    {
+                      "number": 3,
+                      "code": "sq-pe-63A"
+                    },
+                    {
+                      "number": 4,
+                      "code": "sq-pe-64A"
+                    },
+                    {
+                      "number": 5,
+                      "code": "sq-pe-65A"
+                    },
+                    {
+                      "number": 6,
+                      "code": "sq-pe-66A"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "teal",
+              "legs": [
+                {
+                  "number": 1,
+                  "hands": [
+                    {
+                      "number": 1,
+                      "code": "sq-te-11A"
+                    },
+                    {
+                      "number": 2,
+                      "code": "sq-te-12A"
+                    },
+                    {
+                      "number": 3,
+                      "code": "sq-te-13A"
+                    },
+                    {
+                      "number": 4,
+                      "code": "sq-te-14A"
+                    },
+                    {
+                      "number": 5,
+                      "code": "sq-te-15A"
+                    },
+                    {
+                      "number": 6,
+                      "code": "sq-te-16A"
+                    }
+                  ]
+                },
+                {
+                  "number": 2,
+                  "hands": [
+                    {
+                      "number": 1,
+                      "code": "sq-te-21A"
+                    },
+                    {
+                      "number": 2,
+                      "code": "sq-te-22A"
+                    },
+                    {
+                      "number": 3,
+                      "code": "sq-te-23A"
+                    },
+                    {
+                      "number": 4,
+                      "code": "sq-te-24A"
+                    },
+                    {
+                      "number": 5,
+                      "code": "sq-te-25A"
+                    },
+                    {
+                      "number": 6,
+                      "code": "sq-te-26A"
+                    }
+                  ]
+                },
+                {
+                  "number": 3,
+                  "hands": [
+                    {
+                      "number": 1,
+                      "code": "sq-te-31A"
+                    },
+                    {
+                      "number": 2,
+                      "code": "sq-te-32A"
+                    },
+                    {
+                      "number": 3,
+                      "code": "sq-te-33A"
+                    },
+                    {
+                      "number": 4,
+                      "code": "sq-te-34A"
+                    },
+                    {
+                      "number": 5,
+                      "code": "sq-te-35A"
+                    },
+                    {
+                      "number": 6,
+                      "code": "sq-te-36A"
+                    }
+                  ]
+                },
+                {
+                  "number": 4,
+                  "hands": [
+                    {
+                      "number": 1,
+                      "code": "sq-te-41A"
+                    },
+                    {
+                      "number": 2,
+                      "code": "sq-te-42A"
+                    },
+                    {
+                      "number": 3,
+                      "code": "sq-te-43A"
+                    },
+                    {
+                      "number": 4,
+                      "code": "sq-te-44A"
+                    },
+                    {
+                      "number": 5,
+                      "code": "sq-te-45A"
+                    },
+                    {
+                      "number": 6,
+                      "code": "sq-te-46A"
+                    }
+                  ]
+                },
+                {
+                  "number": 5,
+                  "hands": [
+                    {
+                      "number": 1,
+                      "code": "sq-te-51A"
+                    },
+                    {
+                      "number": 2,
+                      "code": "sq-te-52A"
+                    },
+                    {
+                      "number": 3,
+                      "code": "sq-te-53A"
+                    },
+                    {
+                      "number": 4,
+                      "code": "sq-te-54A"
+                    },
+                    {
+                      "number": 5,
+                      "code": "sq-te-55A"
+                    },
+                    {
+                      "number": 6,
+                      "code": "sq-te-56A"
+                    }
+                  ]
+                },
+                {
+                  "number": 6,
+                  "hands": [
+                    {
+                      "number": 1,
+                      "code": "sq-te-61A"
+                    },
+                    {
+                      "number": 2,
+                      "code": "sq-te-62A"
+                    },
+                    {
+                      "number": 3,
+                      "code": "sq-te-63A"
+                    },
+                    {
+                      "number": 4,
+                      "code": "sq-te-64A"
+                    },
+                    {
+                      "number": 5,
+                      "code": "sq-te-65A"
+                    },
+                    {
+                      "number": 6,
+                      "code": "sq-te-66A"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "shape": "round",
+          "color": [
+            {
+              "type": "green",
+              "legs": [
+                {
+                  "number": 1,
+                  "hands": [
+                    {
+                      "number": 1,
+                      "code": "ro-gr-11A"
+                    },
+                    {
+                      "number": 2,
+                      "code": "ro-gr-12A"
+                    },
+                    {
+                      "number": 3,
+                      "code": "ro-gr-13A"
+                    },
+                    {
+                      "number": 4,
+                      "code": "ro-gr-14A"
+                    },
+                    {
+                      "number": 5,
+                      "code": "ro-gr-15A"
+                    },
+                    {
+                      "number": 6,
+                      "code": "ro-gr-16A"
+                    }
+                  ]
+                },
+                {
+                  "number": 2,
+                  "hands": [
+                    {
+                      "number": 1,
+                      "code": "ro-gr-21A"
+                    },
+                    {
+                      "number": 2,
+                      "code": "ro-gr-22A"
+                    },
+                    {
+                      "number": 3,
+                      "code": "ro-gr-23A"
+                    },
+                    {
+                      "number": 4,
+                      "code": "ro-gr-24A"
+                    },
+                    {
+                      "number": 5,
+                      "code": "ro-gr-25A"
+                    },
+                    {
+                      "number": 6,
+                      "code": "ro-gr-26A"
+                    }
+                  ]
+                },
+                {
+                  "number": 3,
+                  "hands": [
+                    {
+                      "number": 1,
+                      "code": "ro-gr-31A"
+                    },
+                    {
+                      "number": 2,
+                      "code": "ro-gr-32A"
+                    },
+                    {
+                      "number": 3,
+                      "code": "ro-gr-33A"
+                    },
+                    {
+                      "number": 4,
+                      "code": "ro-gr-34A"
+                    },
+                    {
+                      "number": 5,
+                      "code": "ro-gr-35A"
+                    },
+                    {
+                      "number": 6,
+                      "code": "ro-gr-36A"
+                    }
+                  ]
+                },
+                {
+                  "number": 4,
+                  "hands": [
+                    {
+                      "number": 1,
+                      "code": "ro-gr-41A"
+                    },
+                    {
+                      "number": 2,
+                      "code": "ro-gr-42A"
+                    },
+                    {
+                      "number": 3,
+                      "code": "ro-gr-43A"
+                    },
+                    {
+                      "number": 4,
+                      "code": "ro-gr-44A"
+                    },
+                    {
+                      "number": 5,
+                      "code": "ro-gr-45A"
+                    },
+                    {
+                      "number": 6,
+                      "code": "ro-gr-46A"
+                    }
+                  ]
+                },
+                {
+                  "number": 5,
+                  "hands": [
+                    {
+                      "number": 1,
+                      "code": "ro-gr-51A"
+                    },
+                    {
+                      "number": 2,
+                      "code": "ro-gr-52A"
+                    },
+                    {
+                      "number": 3,
+                      "code": "ro-gr-53A"
+                    },
+                    {
+                      "number": 4,
+                      "code": "ro-gr-54A"
+                    },
+                    {
+                      "number": 5,
+                      "code": "ro-gr-55A"
+                    },
+                    {
+                      "number": 6,
+                      "code": "ro-gr-56A"
+                    }
+                  ]
+                },
+                {
+                  "number": 6,
+                  "hands": [
+                    {
+                      "number": 1,
+                      "code": "ro-gr-61A"
+                    },
+                    {
+                      "number": 2,
+                      "code": "ro-gr-62A"
+                    },
+                    {
+                      "number": 3,
+                      "code": "ro-gr-63A"
+                    },
+                    {
+                      "number": 4,
+                      "code": "ro-gr-64A"
+                    },
+                    {
+                      "number": 5,
+                      "code": "ro-gr-65A"
+                    },
+                    {
+                      "number": 6,
+                      "code": "ro-gr-66A"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "blue",
+              "legs": [
+                {
+                  "number": 1,
+                  "hands": [
+                    {
+                      "number": 1,
+                      "code": "ro-bl-11A"
+                    },
+                    {
+                      "number": 2,
+                      "code": "ro-bl-12A"
+                    },
+                    {
+                      "number": 3,
+                      "code": "ro-bl-13A"
+                    },
+                    {
+                      "number": 4,
+                      "code": "ro-bl-14A"
+                    },
+                    {
+                      "number": 5,
+                      "code": "ro-bl-15A"
+                    },
+                    {
+                      "number": 6,
+                      "code": "ro-bl-16A"
+                    }
+                  ]
+                },
+                {
+                  "number": 2,
+                  "hands": [
+                    {
+                      "number": 1,
+                      "code": "ro-bl-21A"
+                    },
+                    {
+                      "number": 2,
+                      "code": "ro-bl-22A"
+                    },
+                    {
+                      "number": 3,
+                      "code": "ro-bl-23A"
+                    },
+                    {
+                      "number": 4,
+                      "code": "ro-bl-24A"
+                    },
+                    {
+                      "number": 5,
+                      "code": "ro-bl-25A"
+                    },
+                    {
+                      "number": 6,
+                      "code": "ro-bl-26A"
+                    }
+                  ]
+                },
+                {
+                  "number": 3,
+                  "hands": [
+                    {
+                      "number": 1,
+                      "code": "ro-bl-31A"
+                    },
+                    {
+                      "number": 2,
+                      "code": "ro-bl-32A"
+                    },
+                    {
+                      "number": 3,
+                      "code": "ro-bl-33A"
+                    },
+                    {
+                      "number": 4,
+                      "code": "ro-bl-34A"
+                    },
+                    {
+                      "number": 5,
+                      "code": "ro-bl-35A"
+                    },
+                    {
+                      "number": 6,
+                      "code": "ro-bl-36A"
+                    }
+                  ]
+                },
+                {
+                  "number": 4,
+                  "hands": [
+                    {
+                      "number": 1,
+                      "code": "ro-bl-41A"
+                    },
+                    {
+                      "number": 2,
+                      "code": "ro-bl-42A"
+                    },
+                    {
+                      "number": 3,
+                      "code": "ro-bl-43A"
+                    },
+                    {
+                      "number": 4,
+                      "code": "ro-bl-44A"
+                    },
+                    {
+                      "number": 5,
+                      "code": "ro-bl-45A"
+                    },
+                    {
+                      "number": 6,
+                      "code": "ro-bl-46A"
+                    }
+                  ]
+                },
+                {
+                  "number": 5,
+                  "hands": [
+                    {
+                      "number": 1,
+                      "code": "ro-bl-51A"
+                    },
+                    {
+                      "number": 2,
+                      "code": "ro-bl-52A"
+                    },
+                    {
+                      "number": 3,
+                      "code": "ro-bl-53A"
+                    },
+                    {
+                      "number": 4,
+                      "code": "ro-bl-54A"
+                    },
+                    {
+                      "number": 5,
+                      "code": "ro-bl-55A"
+                    },
+                    {
+                      "number": 6,
+                      "code": "ro-bl-56A"
+                    }
+                  ]
+                },
+                {
+                  "number": 6,
+                  "hands": [
+                    {
+                      "number": 1,
+                      "code": "ro-bl-61A"
+                    },
+                    {
+                      "number": 2,
+                      "code": "ro-bl-62A"
+                    },
+                    {
+                      "number": 3,
+                      "code": "ro-bl-63A"
+                    },
+                    {
+                      "number": 4,
+                      "code": "ro-bl-64A"
+                    },
+                    {
+                      "number": 5,
+                      "code": "ro-bl-65A"
+                    },
+                    {
+                      "number": 6,
+                      "code": "ro-bl-66A"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "crimson",
+              "legs": [
+                {
+                  "number": 1,
+                  "hands": [
+                    {
+                      "number": 1,
+                      "code": "ro-cr-11A"
+                    },
+                    {
+                      "number": 2,
+                      "code": "ro-cr-12A"
+                    },
+                    {
+                      "number": 3,
+                      "code": "ro-cr-13A"
+                    },
+                    {
+                      "number": 4,
+                      "code": "ro-cr-14A"
+                    },
+                    {
+                      "number": 5,
+                      "code": "ro-cr-15A"
+                    },
+                    {
+                      "number": 6,
+                      "code": "ro-cr-16A"
+                    }
+                  ]
+                },
+                {
+                  "number": 2,
+                  "hands": [
+                    {
+                      "number": 1,
+                      "code": "ro-cr-21A"
+                    },
+                    {
+                      "number": 2,
+                      "code": "ro-cr-22A"
+                    },
+                    {
+                      "number": 3,
+                      "code": "ro-cr-23A"
+                    },
+                    {
+                      "number": 4,
+                      "code": "ro-cr-24A"
+                    },
+                    {
+                      "number": 5,
+                      "code": "ro-cr-25A"
+                    },
+                    {
+                      "number": 6,
+                      "code": "ro-cr-26A"
+                    }
+                  ]
+                },
+                {
+                  "number": 3,
+                  "hands": [
+                    {
+                      "number": 1,
+                      "code": "ro-cr-31A"
+                    },
+                    {
+                      "number": 2,
+                      "code": "ro-cr-32A"
+                    },
+                    {
+                      "number": 3,
+                      "code": "ro-cr-33A"
+                    },
+                    {
+                      "number": 4,
+                      "code": "ro-cr-34A"
+                    },
+                    {
+                      "number": 5,
+                      "code": "ro-cr-35A"
+                    },
+                    {
+                      "number": 6,
+                      "code": "ro-cr-36A"
+                    }
+                  ]
+                },
+                {
+                  "number": 4,
+                  "hands": [
+                    {
+                      "number": 1,
+                      "code": "ro-cr-41A"
+                    },
+                    {
+                      "number": 2,
+                      "code": "ro-cr-42A"
+                    },
+                    {
+                      "number": 3,
+                      "code": "ro-cr-43A"
+                    },
+                    {
+                      "number": 4,
+                      "code": "ro-cr-44A"
+                    },
+                    {
+                      "number": 5,
+                      "code": "ro-cr-45A"
+                    },
+                    {
+                      "number": 6,
+                      "code": "ro-cr-46A"
+                    }
+                  ]
+                },
+                {
+                  "number": 5,
+                  "hands": [
+                    {
+                      "number": 1,
+                      "code": "ro-cr-51A"
+                    },
+                    {
+                      "number": 2,
+                      "code": "ro-cr-52A"
+                    },
+                    {
+                      "number": 3,
+                      "code": "ro-cr-53A"
+                    },
+                    {
+                      "number": 4,
+                      "code": "ro-cr-54A"
+                    },
+                    {
+                      "number": 5,
+                      "code": "ro-cr-55A"
+                    },
+                    {
+                      "number": 6,
+                      "code": "ro-cr-56A"
+                    }
+                  ]
+                },
+                {
+                  "number": 6,
+                  "hands": [
+                    {
+                      "number": 1,
+                      "code": "ro-cr-61A"
+                    },
+                    {
+                      "number": 2,
+                      "code": "ro-cr-62A"
+                    },
+                    {
+                      "number": 3,
+                      "code": "ro-cr-63A"
+                    },
+                    {
+                      "number": 4,
+                      "code": "ro-cr-64A"
+                    },
+                    {
+                      "number": 5,
+                      "code": "ro-cr-65A"
+                    },
+                    {
+                      "number": 6,
+                      "code": "ro-cr-66A"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "yellow",
+              "legs": [
+                {
+                  "number": 1,
+                  "hands": [
+                    {
+                      "number": 1,
+                      "code": "ro-ye-11A"
+                    },
+                    {
+                      "number": 2,
+                      "code": "ro-ye-12A"
+                    },
+                    {
+                      "number": 3,
+                      "code": "ro-ye-13A"
+                    },
+                    {
+                      "number": 4,
+                      "code": "ro-ye-14A"
+                    },
+                    {
+                      "number": 5,
+                      "code": "ro-ye-15A"
+                    },
+                    {
+                      "number": 6,
+                      "code": "ro-ye-16A"
+                    }
+                  ]
+                },
+                {
+                  "number": 2,
+                  "hands": [
+                    {
+                      "number": 1,
+                      "code": "ro-ye-21A"
+                    },
+                    {
+                      "number": 2,
+                      "code": "ro-ye-22A"
+                    },
+                    {
+                      "number": 3,
+                      "code": "ro-ye-23A"
+                    },
+                    {
+                      "number": 4,
+                      "code": "ro-ye-24A"
+                    },
+                    {
+                      "number": 5,
+                      "code": "ro-ye-25A"
+                    },
+                    {
+                      "number": 6,
+                      "code": "ro-ye-26A"
+                    }
+                  ]
+                },
+                {
+                  "number": 3,
+                  "hands": [
+                    {
+                      "number": 1,
+                      "code": "ro-ye-31A"
+                    },
+                    {
+                      "number": 2,
+                      "code": "ro-ye-32A"
+                    },
+                    {
+                      "number": 3,
+                      "code": "ro-ye-33A"
+                    },
+                    {
+                      "number": 4,
+                      "code": "ro-ye-34A"
+                    },
+                    {
+                      "number": 5,
+                      "code": "ro-ye-35A"
+                    },
+                    {
+                      "number": 6,
+                      "code": "ro-ye-36A"
+                    }
+                  ]
+                },
+                {
+                  "number": 4,
+                  "hands": [
+                    {
+                      "number": 1,
+                      "code": "ro-ye-41A"
+                    },
+                    {
+                      "number": 2,
+                      "code": "ro-ye-42A"
+                    },
+                    {
+                      "number": 3,
+                      "code": "ro-ye-43A"
+                    },
+                    {
+                      "number": 4,
+                      "code": "ro-ye-44A"
+                    },
+                    {
+                      "number": 5,
+                      "code": "ro-ye-45A"
+                    },
+                    {
+                      "number": 6,
+                      "code": "ro-ye-46A"
+                    }
+                  ]
+                },
+                {
+                  "number": 5,
+                  "hands": [
+                    {
+                      "number": 1,
+                      "code": "ro-ye-51A"
+                    },
+                    {
+                      "number": 2,
+                      "code": "ro-ye-52A"
+                    },
+                    {
+                      "number": 3,
+                      "code": "ro-ye-53A"
+                    },
+                    {
+                      "number": 4,
+                      "code": "ro-ye-54A"
+                    },
+                    {
+                      "number": 5,
+                      "code": "ro-ye-55A"
+                    },
+                    {
+                      "number": 6,
+                      "code": "ro-ye-56A"
+                    }
+                  ]
+                },
+                {
+                  "number": 6,
+                  "hands": [
+                    {
+                      "number": 1,
+                      "code": "ro-ye-61A"
+                    },
+                    {
+                      "number": 2,
+                      "code": "ro-ye-62A"
+                    },
+                    {
+                      "number": 3,
+                      "code": "ro-ye-63A"
+                    },
+                    {
+                      "number": 4,
+                      "code": "ro-ye-64A"
+                    },
+                    {
+                      "number": 5,
+                      "code": "ro-ye-65A"
+                    },
+                    {
+                      "number": 6,
+                      "code": "ro-ye-66A"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "peach",
+              "legs": [
+                {
+                  "number": 1,
+                  "hands": [
+                    {
+                      "number": 1,
+                      "code": "ro-pe-11A"
+                    },
+                    {
+                      "number": 2,
+                      "code": "ro-pe-12A"
+                    },
+                    {
+                      "number": 3,
+                      "code": "ro-pe-13A"
+                    },
+                    {
+                      "number": 4,
+                      "code": "ro-pe-14A"
+                    },
+                    {
+                      "number": 5,
+                      "code": "ro-pe-15A"
+                    },
+                    {
+                      "number": 6,
+                      "code": "ro-pe-16A"
+                    }
+                  ]
+                },
+                {
+                  "number": 2,
+                  "hands": [
+                    {
+                      "number": 1,
+                      "code": "ro-pe-21A"
+                    },
+                    {
+                      "number": 2,
+                      "code": "ro-pe-22A"
+                    },
+                    {
+                      "number": 3,
+                      "code": "ro-pe-23A"
+                    },
+                    {
+                      "number": 4,
+                      "code": "ro-pe-24A"
+                    },
+                    {
+                      "number": 5,
+                      "code": "ro-pe-25A"
+                    },
+                    {
+                      "number": 6,
+                      "code": "ro-pe-26A"
+                    }
+                  ]
+                },
+                {
+                  "number": 3,
+                  "hands": [
+                    {
+                      "number": 1,
+                      "code": "ro-pe-31A"
+                    },
+                    {
+                      "number": 2,
+                      "code": "ro-pe-32A"
+                    },
+                    {
+                      "number": 3,
+                      "code": "ro-pe-33A"
+                    },
+                    {
+                      "number": 4,
+                      "code": "ro-pe-34A"
+                    },
+                    {
+                      "number": 5,
+                      "code": "ro-pe-35A"
+                    },
+                    {
+                      "number": 6,
+                      "code": "ro-pe-36A"
+                    }
+                  ]
+                },
+                {
+                  "number": 4,
+                  "hands": [
+                    {
+                      "number": 1,
+                      "code": "ro-pe-41A"
+                    },
+                    {
+                      "number": 2,
+                      "code": "ro-pe-42A"
+                    },
+                    {
+                      "number": 3,
+                      "code": "ro-pe-43A"
+                    },
+                    {
+                      "number": 4,
+                      "code": "ro-pe-44A"
+                    },
+                    {
+                      "number": 5,
+                      "code": "ro-pe-45A"
+                    },
+                    {
+                      "number": 6,
+                      "code": "ro-pe-46A"
+                    }
+                  ]
+                },
+                {
+                  "number": 5,
+                  "hands": [
+                    {
+                      "number": 1,
+                      "code": "ro-pe-51A"
+                    },
+                    {
+                      "number": 2,
+                      "code": "ro-pe-52A"
+                    },
+                    {
+                      "number": 3,
+                      "code": "ro-pe-53A"
+                    },
+                    {
+                      "number": 4,
+                      "code": "ro-pe-54A"
+                    },
+                    {
+                      "number": 5,
+                      "code": "ro-pe-55A"
+                    },
+                    {
+                      "number": 6,
+                      "code": "ro-pe-56A"
+                    }
+                  ]
+                },
+                {
+                  "number": 6,
+                  "hands": [
+                    {
+                      "number": 1,
+                      "code": "ro-pe-61A"
+                    },
+                    {
+                      "number": 2,
+                      "code": "ro-pe-62A"
+                    },
+                    {
+                      "number": 3,
+                      "code": "ro-pe-63A"
+                    },
+                    {
+                      "number": 4,
+                      "code": "ro-pe-64A"
+                    },
+                    {
+                      "number": 5,
+                      "code": "ro-pe-65A"
+                    },
+                    {
+                      "number": 6,
+                      "code": "ro-pe-66A"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "teal",
+              "legs": [
+                {
+                  "number": 1,
+                  "hands": [
+                    {
+                      "number": 1,
+                      "code": "ro-te-11A"
+                    },
+                    {
+                      "number": 2,
+                      "code": "ro-te-12A"
+                    },
+                    {
+                      "number": 3,
+                      "code": "ro-te-13A"
+                    },
+                    {
+                      "number": 4,
+                      "code": "ro-te-14A"
+                    },
+                    {
+                      "number": 5,
+                      "code": "ro-te-15A"
+                    },
+                    {
+                      "number": 6,
+                      "code": "ro-te-16A"
+                    }
+                  ]
+                },
+                {
+                  "number": 2,
+                  "hands": [
+                    {
+                      "number": 1,
+                      "code": "ro-te-21A"
+                    },
+                    {
+                      "number": 2,
+                      "code": "ro-te-22A"
+                    },
+                    {
+                      "number": 3,
+                      "code": "ro-te-23A"
+                    },
+                    {
+                      "number": 4,
+                      "code": "ro-te-24A"
+                    },
+                    {
+                      "number": 5,
+                      "code": "ro-te-25A"
+                    },
+                    {
+                      "number": 6,
+                      "code": "ro-te-26A"
+                    }
+                  ]
+                },
+                {
+                  "number": 3,
+                  "hands": [
+                    {
+                      "number": 1,
+                      "code": "ro-te-31A"
+                    },
+                    {
+                      "number": 2,
+                      "code": "ro-te-32A"
+                    },
+                    {
+                      "number": 3,
+                      "code": "ro-te-33A"
+                    },
+                    {
+                      "number": 4,
+                      "code": "ro-te-34A"
+                    },
+                    {
+                      "number": 5,
+                      "code": "ro-te-35A"
+                    },
+                    {
+                      "number": 6,
+                      "code": "ro-te-36A"
+                    }
+                  ]
+                },
+                {
+                  "number": 4,
+                  "hands": [
+                    {
+                      "number": 1,
+                      "code": "ro-te-41A"
+                    },
+                    {
+                      "number": 2,
+                      "code": "ro-te-42A"
+                    },
+                    {
+                      "number": 3,
+                      "code": "ro-te-43A"
+                    },
+                    {
+                      "number": 4,
+                      "code": "ro-te-44A"
+                    },
+                    {
+                      "number": 5,
+                      "code": "ro-te-45A"
+                    },
+                    {
+                      "number": 6,
+                      "code": "ro-te-46A"
+                    }
+                  ]
+                },
+                {
+                  "number": 5,
+                  "hands": [
+                    {
+                      "number": 1,
+                      "code": "ro-te-51A"
+                    },
+                    {
+                      "number": 2,
+                      "code": "ro-te-52A"
+                    },
+                    {
+                      "number": 3,
+                      "code": "ro-te-53A"
+                    },
+                    {
+                      "number": 4,
+                      "code": "ro-te-54A"
+                    },
+                    {
+                      "number": 5,
+                      "code": "ro-te-55A"
+                    },
+                    {
+                      "number": 6,
+                      "code": "ro-te-56A"
+                    }
+                  ]
+                },
+                {
+                  "number": 6,
+                  "hands": [
+                    {
+                      "number": 1,
+                      "code": "ro-te-61A"
+                    },
+                    {
+                      "number": 2,
+                      "code": "ro-te-62A"
+                    },
+                    {
+                      "number": 3,
+                      "code": "ro-te-63A"
+                    },
+                    {
+                      "number": 4,
+                      "code": "ro-te-64A"
+                    },
+                    {
+                      "number": 5,
+                      "code": "ro-te-65A"
+                    },
+                    {
+                      "number": 6,
+                      "code": "ro-te-66A"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "shape": "triangle",
+          "color": [
+            {
+              "type": "green",
+              "legs": [
+                {
+                  "number": 1,
+                  "hands": [
+                    {
+                      "number": 1,
+                      "code": "tr-gr-11A"
+                    },
+                    {
+                      "number": 2,
+                      "code": "tr-gr-12A"
+                    },
+                    {
+                      "number": 3,
+                      "code": "tr-gr-13A"
+                    },
+                    {
+                      "number": 4,
+                      "code": "tr-gr-14A"
+                    },
+                    {
+                      "number": 5,
+                      "code": "tr-gr-15A"
+                    },
+                    {
+                      "number": 6,
+                      "code": "tr-gr-16A"
+                    }
+                  ]
+                },
+                {
+                  "number": 2,
+                  "hands": [
+                    {
+                      "number": 1,
+                      "code": "tr-gr-21A"
+                    },
+                    {
+                      "number": 2,
+                      "code": "tr-gr-22A"
+                    },
+                    {
+                      "number": 3,
+                      "code": "tr-gr-23A"
+                    },
+                    {
+                      "number": 4,
+                      "code": "tr-gr-24A"
+                    },
+                    {
+                      "number": 5,
+                      "code": "tr-gr-25A"
+                    },
+                    {
+                      "number": 6,
+                      "code": "tr-gr-26A"
+                    }
+                  ]
+                },
+                {
+                  "number": 3,
+                  "hands": [
+                    {
+                      "number": 1,
+                      "code": "tr-gr-31A"
+                    },
+                    {
+                      "number": 2,
+                      "code": "tr-gr-32A"
+                    },
+                    {
+                      "number": 3,
+                      "code": "tr-gr-33A"
+                    },
+                    {
+                      "number": 4,
+                      "code": "tr-gr-34A"
+                    },
+                    {
+                      "number": 5,
+                      "code": "tr-gr-35A"
+                    },
+                    {
+                      "number": 6,
+                      "code": "tr-gr-36A"
+                    }
+                  ]
+                },
+                {
+                  "number": 4,
+                  "hands": [
+                    {
+                      "number": 1,
+                      "code": "tr-gr-41A"
+                    },
+                    {
+                      "number": 2,
+                      "code": "tr-gr-42A"
+                    },
+                    {
+                      "number": 3,
+                      "code": "tr-gr-43A"
+                    },
+                    {
+                      "number": 4,
+                      "code": "tr-gr-44A"
+                    },
+                    {
+                      "number": 5,
+                      "code": "tr-gr-45A"
+                    },
+                    {
+                      "number": 6,
+                      "code": "tr-gr-46A"
+                    }
+                  ]
+                },
+                {
+                  "number": 5,
+                  "hands": [
+                    {
+                      "number": 1,
+                      "code": "tr-gr-51A"
+                    },
+                    {
+                      "number": 2,
+                      "code": "tr-gr-52A"
+                    },
+                    {
+                      "number": 3,
+                      "code": "tr-gr-53A"
+                    },
+                    {
+                      "number": 4,
+                      "code": "tr-gr-54A"
+                    },
+                    {
+                      "number": 5,
+                      "code": "tr-gr-55A"
+                    },
+                    {
+                      "number": 6,
+                      "code": "tr-gr-56A"
+                    }
+                  ]
+                },
+                {
+                  "number": 6,
+                  "hands": [
+                    {
+                      "number": 1,
+                      "code": "tr-gr-61A"
+                    },
+                    {
+                      "number": 2,
+                      "code": "tr-gr-62A"
+                    },
+                    {
+                      "number": 3,
+                      "code": "tr-gr-63A"
+                    },
+                    {
+                      "number": 4,
+                      "code": "tr-gr-64A"
+                    },
+                    {
+                      "number": 5,
+                      "code": "tr-gr-65A"
+                    },
+                    {
+                      "number": 6,
+                      "code": "tr-gr-66A"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "blue",
+              "legs": [
+                {
+                  "number": 1,
+                  "hands": [
+                    {
+                      "number": 1,
+                      "code": "tr-bl-11A"
+                    },
+                    {
+                      "number": 2,
+                      "code": "tr-bl-12A"
+                    },
+                    {
+                      "number": 3,
+                      "code": "tr-bl-13A"
+                    },
+                    {
+                      "number": 4,
+                      "code": "tr-bl-14A"
+                    },
+                    {
+                      "number": 5,
+                      "code": "tr-bl-15A"
+                    },
+                    {
+                      "number": 6,
+                      "code": "tr-bl-16A"
+                    }
+                  ]
+                },
+                {
+                  "number": 2,
+                  "hands": [
+                    {
+                      "number": 1,
+                      "code": "tr-bl-21A"
+                    },
+                    {
+                      "number": 2,
+                      "code": "tr-bl-22A"
+                    },
+                    {
+                      "number": 3,
+                      "code": "tr-bl-23A"
+                    },
+                    {
+                      "number": 4,
+                      "code": "tr-bl-24A"
+                    },
+                    {
+                      "number": 5,
+                      "code": "tr-bl-25A"
+                    },
+                    {
+                      "number": 6,
+                      "code": "tr-bl-26A"
+                    }
+                  ]
+                },
+                {
+                  "number": 3,
+                  "hands": [
+                    {
+                      "number": 1,
+                      "code": "tr-bl-31A"
+                    },
+                    {
+                      "number": 2,
+                      "code": "tr-bl-32A"
+                    },
+                    {
+                      "number": 3,
+                      "code": "tr-bl-33A"
+                    },
+                    {
+                      "number": 4,
+                      "code": "tr-bl-34A"
+                    },
+                    {
+                      "number": 5,
+                      "code": "tr-bl-35A"
+                    },
+                    {
+                      "number": 6,
+                      "code": "tr-bl-36A"
+                    }
+                  ]
+                },
+                {
+                  "number": 4,
+                  "hands": [
+                    {
+                      "number": 1,
+                      "code": "tr-bl-41A"
+                    },
+                    {
+                      "number": 2,
+                      "code": "tr-bl-42A"
+                    },
+                    {
+                      "number": 3,
+                      "code": "tr-bl-43A"
+                    },
+                    {
+                      "number": 4,
+                      "code": "tr-bl-44A"
+                    },
+                    {
+                      "number": 5,
+                      "code": "tr-bl-45A"
+                    },
+                    {
+                      "number": 6,
+                      "code": "tr-bl-46A"
+                    }
+                  ]
+                },
+                {
+                  "number": 5,
+                  "hands": [
+                    {
+                      "number": 1,
+                      "code": "tr-bl-51A"
+                    },
+                    {
+                      "number": 2,
+                      "code": "tr-bl-52A"
+                    },
+                    {
+                      "number": 3,
+                      "code": "tr-bl-53A"
+                    },
+                    {
+                      "number": 4,
+                      "code": "tr-bl-54A"
+                    },
+                    {
+                      "number": 5,
+                      "code": "tr-bl-55A"
+                    },
+                    {
+                      "number": 6,
+                      "code": "tr-bl-56A"
+                    }
+                  ]
+                },
+                {
+                  "number": 6,
+                  "hands": [
+                    {
+                      "number": 1,
+                      "code": "tr-bl-61A"
+                    },
+                    {
+                      "number": 2,
+                      "code": "tr-bl-62A"
+                    },
+                    {
+                      "number": 3,
+                      "code": "tr-bl-63A"
+                    },
+                    {
+                      "number": 4,
+                      "code": "tr-bl-64A"
+                    },
+                    {
+                      "number": 5,
+                      "code": "tr-bl-65A"
+                    },
+                    {
+                      "number": 6,
+                      "code": "tr-bl-66A"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "crimson",
+              "legs": [
+                {
+                  "number": 1,
+                  "hands": [
+                    {
+                      "number": 1,
+                      "code": "tr-cr-11A"
+                    },
+                    {
+                      "number": 2,
+                      "code": "tr-cr-12A"
+                    },
+                    {
+                      "number": 3,
+                      "code": "tr-cr-13A"
+                    },
+                    {
+                      "number": 4,
+                      "code": "tr-cr-14A"
+                    },
+                    {
+                      "number": 5,
+                      "code": "tr-cr-15A"
+                    },
+                    {
+                      "number": 6,
+                      "code": "tr-cr-16A"
+                    }
+                  ]
+                },
+                {
+                  "number": 2,
+                  "hands": [
+                    {
+                      "number": 1,
+                      "code": "tr-cr-21A"
+                    },
+                    {
+                      "number": 2,
+                      "code": "tr-cr-22A"
+                    },
+                    {
+                      "number": 3,
+                      "code": "tr-cr-23A"
+                    },
+                    {
+                      "number": 4,
+                      "code": "tr-cr-24A"
+                    },
+                    {
+                      "number": 5,
+                      "code": "tr-cr-25A"
+                    },
+                    {
+                      "number": 6,
+                      "code": "tr-cr-26A"
+                    }
+                  ]
+                },
+                {
+                  "number": 3,
+                  "hands": [
+                    {
+                      "number": 1,
+                      "code": "tr-cr-31A"
+                    },
+                    {
+                      "number": 2,
+                      "code": "tr-cr-32A"
+                    },
+                    {
+                      "number": 3,
+                      "code": "tr-cr-33A"
+                    },
+                    {
+                      "number": 4,
+                      "code": "tr-cr-34A"
+                    },
+                    {
+                      "number": 5,
+                      "code": "tr-cr-35A"
+                    },
+                    {
+                      "number": 6,
+                      "code": "tr-cr-36A"
+                    }
+                  ]
+                },
+                {
+                  "number": 4,
+                  "hands": [
+                    {
+                      "number": 1,
+                      "code": "tr-cr-41A"
+                    },
+                    {
+                      "number": 2,
+                      "code": "tr-cr-42A"
+                    },
+                    {
+                      "number": 3,
+                      "code": "tr-cr-43A"
+                    },
+                    {
+                      "number": 4,
+                      "code": "tr-cr-44A"
+                    },
+                    {
+                      "number": 5,
+                      "code": "tr-cr-45A"
+                    },
+                    {
+                      "number": 6,
+                      "code": "tr-cr-46A"
+                    }
+                  ]
+                },
+                {
+                  "number": 5,
+                  "hands": [
+                    {
+                      "number": 1,
+                      "code": "tr-cr-51A"
+                    },
+                    {
+                      "number": 2,
+                      "code": "tr-cr-52A"
+                    },
+                    {
+                      "number": 3,
+                      "code": "tr-cr-53A"
+                    },
+                    {
+                      "number": 4,
+                      "code": "tr-cr-54A"
+                    },
+                    {
+                      "number": 5,
+                      "code": "tr-cr-55A"
+                    },
+                    {
+                      "number": 6,
+                      "code": "tr-cr-56A"
+                    }
+                  ]
+                },
+                {
+                  "number": 6,
+                  "hands": [
+                    {
+                      "number": 1,
+                      "code": "tr-cr-61A"
+                    },
+                    {
+                      "number": 2,
+                      "code": "tr-cr-62A"
+                    },
+                    {
+                      "number": 3,
+                      "code": "tr-cr-63A"
+                    },
+                    {
+                      "number": 4,
+                      "code": "tr-cr-64A"
+                    },
+                    {
+                      "number": 5,
+                      "code": "tr-cr-65A"
+                    },
+                    {
+                      "number": 6,
+                      "code": "tr-cr-66A"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "yellow",
+              "legs": [
+                {
+                  "number": 1,
+                  "hands": [
+                    {
+                      "number": 1,
+                      "code": "tr-ye-11A"
+                    },
+                    {
+                      "number": 2,
+                      "code": "tr-ye-12A"
+                    },
+                    {
+                      "number": 3,
+                      "code": "tr-ye-13A"
+                    },
+                    {
+                      "number": 4,
+                      "code": "tr-ye-14A"
+                    },
+                    {
+                      "number": 5,
+                      "code": "tr-ye-15A"
+                    },
+                    {
+                      "number": 6,
+                      "code": "tr-ye-16A"
+                    }
+                  ]
+                },
+                {
+                  "number": 2,
+                  "hands": [
+                    {
+                      "number": 1,
+                      "code": "tr-ye-21A"
+                    },
+                    {
+                      "number": 2,
+                      "code": "tr-ye-22A"
+                    },
+                    {
+                      "number": 3,
+                      "code": "tr-ye-23A"
+                    },
+                    {
+                      "number": 4,
+                      "code": "tr-ye-24A"
+                    },
+                    {
+                      "number": 5,
+                      "code": "tr-ye-25A"
+                    },
+                    {
+                      "number": 6,
+                      "code": "tr-ye-26A"
+                    }
+                  ]
+                },
+                {
+                  "number": 3,
+                  "hands": [
+                    {
+                      "number": 1,
+                      "code": "tr-ye-31A"
+                    },
+                    {
+                      "number": 2,
+                      "code": "tr-ye-32A"
+                    },
+                    {
+                      "number": 3,
+                      "code": "tr-ye-33A"
+                    },
+                    {
+                      "number": 4,
+                      "code": "tr-ye-34A"
+                    },
+                    {
+                      "number": 5,
+                      "code": "tr-ye-35A"
+                    },
+                    {
+                      "number": 6,
+                      "code": "tr-ye-36A"
+                    }
+                  ]
+                },
+                {
+                  "number": 4,
+                  "hands": [
+                    {
+                      "number": 1,
+                      "code": "tr-ye-41A"
+                    },
+                    {
+                      "number": 2,
+                      "code": "tr-ye-42A"
+                    },
+                    {
+                      "number": 3,
+                      "code": "tr-ye-43A"
+                    },
+                    {
+                      "number": 4,
+                      "code": "tr-ye-44A"
+                    },
+                    {
+                      "number": 5,
+                      "code": "tr-ye-45A"
+                    },
+                    {
+                      "number": 6,
+                      "code": "tr-ye-46A"
+                    }
+                  ]
+                },
+                {
+                  "number": 5,
+                  "hands": [
+                    {
+                      "number": 1,
+                      "code": "tr-ye-51A"
+                    },
+                    {
+                      "number": 2,
+                      "code": "tr-ye-52A"
+                    },
+                    {
+                      "number": 3,
+                      "code": "tr-ye-53A"
+                    },
+                    {
+                      "number": 4,
+                      "code": "tr-ye-54A"
+                    },
+                    {
+                      "number": 5,
+                      "code": "tr-ye-55A"
+                    },
+                    {
+                      "number": 6,
+                      "code": "tr-ye-56A"
+                    }
+                  ]
+                },
+                {
+                  "number": 6,
+                  "hands": [
+                    {
+                      "number": 1,
+                      "code": "tr-ye-61A"
+                    },
+                    {
+                      "number": 2,
+                      "code": "tr-ye-62A"
+                    },
+                    {
+                      "number": 3,
+                      "code": "tr-ye-63A"
+                    },
+                    {
+                      "number": 4,
+                      "code": "tr-ye-64A"
+                    },
+                    {
+                      "number": 5,
+                      "code": "tr-ye-65A"
+                    },
+                    {
+                      "number": 6,
+                      "code": "tr-ye-66A"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "peach",
+              "legs": [
+                {
+                  "number": 1,
+                  "hands": [
+                    {
+                      "number": 1,
+                      "code": "tr-pe-11A"
+                    },
+                    {
+                      "number": 2,
+                      "code": "tr-pe-12A"
+                    },
+                    {
+                      "number": 3,
+                      "code": "tr-pe-13A"
+                    },
+                    {
+                      "number": 4,
+                      "code": "tr-pe-14A"
+                    },
+                    {
+                      "number": 5,
+                      "code": "tr-pe-15A"
+                    },
+                    {
+                      "number": 6,
+                      "code": "tr-pe-16A"
+                    }
+                  ]
+                },
+                {
+                  "number": 2,
+                  "hands": [
+                    {
+                      "number": 1,
+                      "code": "tr-pe-21A"
+                    },
+                    {
+                      "number": 2,
+                      "code": "tr-pe-22A"
+                    },
+                    {
+                      "number": 3,
+                      "code": "tr-pe-23A"
+                    },
+                    {
+                      "number": 4,
+                      "code": "tr-pe-24A"
+                    },
+                    {
+                      "number": 5,
+                      "code": "tr-pe-25A"
+                    },
+                    {
+                      "number": 6,
+                      "code": "tr-pe-26A"
+                    }
+                  ]
+                },
+                {
+                  "number": 3,
+                  "hands": [
+                    {
+                      "number": 1,
+                      "code": "tr-pe-31A"
+                    },
+                    {
+                      "number": 2,
+                      "code": "tr-pe-32A"
+                    },
+                    {
+                      "number": 3,
+                      "code": "tr-pe-33A"
+                    },
+                    {
+                      "number": 4,
+                      "code": "tr-pe-34A"
+                    },
+                    {
+                      "number": 5,
+                      "code": "tr-pe-35A"
+                    },
+                    {
+                      "number": 6,
+                      "code": "tr-pe-36A"
+                    }
+                  ]
+                },
+                {
+                  "number": 4,
+                  "hands": [
+                    {
+                      "number": 1,
+                      "code": "tr-pe-41A"
+                    },
+                    {
+                      "number": 2,
+                      "code": "tr-pe-42A"
+                    },
+                    {
+                      "number": 3,
+                      "code": "tr-pe-43A"
+                    },
+                    {
+                      "number": 4,
+                      "code": "tr-pe-44A"
+                    },
+                    {
+                      "number": 5,
+                      "code": "tr-pe-45A"
+                    },
+                    {
+                      "number": 6,
+                      "code": "tr-pe-46A"
+                    }
+                  ]
+                },
+                {
+                  "number": 5,
+                  "hands": [
+                    {
+                      "number": 1,
+                      "code": "tr-pe-51A"
+                    },
+                    {
+                      "number": 2,
+                      "code": "tr-pe-52A"
+                    },
+                    {
+                      "number": 3,
+                      "code": "tr-pe-53A"
+                    },
+                    {
+                      "number": 4,
+                      "code": "tr-pe-54A"
+                    },
+                    {
+                      "number": 5,
+                      "code": "tr-pe-55A"
+                    },
+                    {
+                      "number": 6,
+                      "code": "tr-pe-56A"
+                    }
+                  ]
+                },
+                {
+                  "number": 6,
+                  "hands": [
+                    {
+                      "number": 1,
+                      "code": "tr-pe-61A"
+                    },
+                    {
+                      "number": 2,
+                      "code": "tr-pe-62A"
+                    },
+                    {
+                      "number": 3,
+                      "code": "tr-pe-63A"
+                    },
+                    {
+                      "number": 4,
+                      "code": "tr-pe-64A"
+                    },
+                    {
+                      "number": 5,
+                      "code": "tr-pe-65A"
+                    },
+                    {
+                      "number": 6,
+                      "code": "tr-pe-66A"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "teal",
+              "legs": [
+                {
+                  "number": 1,
+                  "hands": [
+                    {
+                      "number": 1,
+                      "code": "tr-te-11A"
+                    },
+                    {
+                      "number": 2,
+                      "code": "tr-te-12A"
+                    },
+                    {
+                      "number": 3,
+                      "code": "tr-te-13A"
+                    },
+                    {
+                      "number": 4,
+                      "code": "tr-te-14A"
+                    },
+                    {
+                      "number": 5,
+                      "code": "tr-te-15A"
+                    },
+                    {
+                      "number": 6,
+                      "code": "tr-te-16A"
+                    }
+                  ]
+                },
+                {
+                  "number": 2,
+                  "hands": [
+                    {
+                      "number": 1,
+                      "code": "tr-te-21A"
+                    },
+                    {
+                      "number": 2,
+                      "code": "tr-te-22A"
+                    },
+                    {
+                      "number": 3,
+                      "code": "tr-te-23A"
+                    },
+                    {
+                      "number": 4,
+                      "code": "tr-te-24A"
+                    },
+                    {
+                      "number": 5,
+                      "code": "tr-te-25A"
+                    },
+                    {
+                      "number": 6,
+                      "code": "tr-te-26A"
+                    }
+                  ]
+                },
+                {
+                  "number": 3,
+                  "hands": [
+                    {
+                      "number": 1,
+                      "code": "tr-te-31A"
+                    },
+                    {
+                      "number": 2,
+                      "code": "tr-te-32A"
+                    },
+                    {
+                      "number": 3,
+                      "code": "tr-te-33A"
+                    },
+                    {
+                      "number": 4,
+                      "code": "tr-te-34A"
+                    },
+                    {
+                      "number": 5,
+                      "code": "tr-te-35A"
+                    },
+                    {
+                      "number": 6,
+                      "code": "tr-te-36A"
+                    }
+                  ]
+                },
+                {
+                  "number": 4,
+                  "hands": [
+                    {
+                      "number": 1,
+                      "code": "tr-te-41A"
+                    },
+                    {
+                      "number": 2,
+                      "code": "tr-te-42A"
+                    },
+                    {
+                      "number": 3,
+                      "code": "tr-te-43A"
+                    },
+                    {
+                      "number": 4,
+                      "code": "tr-te-44A"
+                    },
+                    {
+                      "number": 5,
+                      "code": "tr-te-45A"
+                    },
+                    {
+                      "number": 6,
+                      "code": "tr-te-46A"
+                    }
+                  ]
+                },
+                {
+                  "number": 5,
+                  "hands": [
+                    {
+                      "number": 1,
+                      "code": "tr-te-51A"
+                    },
+                    {
+                      "number": 2,
+                      "code": "tr-te-52A"
+                    },
+                    {
+                      "number": 3,
+                      "code": "tr-te-53A"
+                    },
+                    {
+                      "number": 4,
+                      "code": "tr-te-54A"
+                    },
+                    {
+                      "number": 5,
+                      "code": "tr-te-55A"
+                    },
+                    {
+                      "number": 6,
+                      "code": "tr-te-56A"
+                    }
+                  ]
+                },
+                {
+                  "number": 6,
+                  "hands": [
+                    {
+                      "number": 1,
+                      "code": "tr-te-61A"
+                    },
+                    {
+                      "number": 2,
+                      "code": "tr-te-62A"
+                    },
+                    {
+                      "number": 3,
+                      "code": "tr-te-63A"
+                    },
+                    {
+                      "number": 4,
+                      "code": "tr-te-64A"
+                    },
+                    {
+                      "number": 5,
+                      "code": "tr-te-65A"
+                    },
+                    {
+                      "number": 6,
+                      "code": "tr-te-66A"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "shape": "pentagon",
+          "color": [
+            {
+              "type": "green",
+              "legs": [
+                {
+                  "number": 1,
+                  "hands": [
+                    {
+                      "number": 1,
+                      "code": "pe-gr-11A"
+                    },
+                    {
+                      "number": 2,
+                      "code": "pe-gr-12A"
+                    },
+                    {
+                      "number": 3,
+                      "code": "pe-gr-13A"
+                    },
+                    {
+                      "number": 4,
+                      "code": "pe-gr-14A"
+                    },
+                    {
+                      "number": 5,
+                      "code": "pe-gr-15A"
+                    },
+                    {
+                      "number": 6,
+                      "code": "pe-gr-16A"
+                    }
+                  ]
+                },
+                {
+                  "number": 2,
+                  "hands": [
+                    {
+                      "number": 1,
+                      "code": "pe-gr-21A"
+                    },
+                    {
+                      "number": 2,
+                      "code": "pe-gr-22A"
+                    },
+                    {
+                      "number": 3,
+                      "code": "pe-gr-23A"
+                    },
+                    {
+                      "number": 4,
+                      "code": "pe-gr-24A"
+                    },
+                    {
+                      "number": 5,
+                      "code": "pe-gr-25A"
+                    },
+                    {
+                      "number": 6,
+                      "code": "pe-gr-26A"
+                    }
+                  ]
+                },
+                {
+                  "number": 3,
+                  "hands": [
+                    {
+                      "number": 1,
+                      "code": "pe-gr-31A"
+                    },
+                    {
+                      "number": 2,
+                      "code": "pe-gr-32A"
+                    },
+                    {
+                      "number": 3,
+                      "code": "pe-gr-33A"
+                    },
+                    {
+                      "number": 4,
+                      "code": "pe-gr-34A"
+                    },
+                    {
+                      "number": 5,
+                      "code": "pe-gr-35A"
+                    },
+                    {
+                      "number": 6,
+                      "code": "pe-gr-36A"
+                    }
+                  ]
+                },
+                {
+                  "number": 4,
+                  "hands": [
+                    {
+                      "number": 1,
+                      "code": "pe-gr-41A"
+                    },
+                    {
+                      "number": 2,
+                      "code": "pe-gr-42A"
+                    },
+                    {
+                      "number": 3,
+                      "code": "pe-gr-43A"
+                    },
+                    {
+                      "number": 4,
+                      "code": "pe-gr-44A"
+                    },
+                    {
+                      "number": 5,
+                      "code": "pe-gr-45A"
+                    },
+                    {
+                      "number": 6,
+                      "code": "pe-gr-46A"
+                    }
+                  ]
+                },
+                {
+                  "number": 5,
+                  "hands": [
+                    {
+                      "number": 1,
+                      "code": "pe-gr-51A"
+                    },
+                    {
+                      "number": 2,
+                      "code": "pe-gr-52A"
+                    },
+                    {
+                      "number": 3,
+                      "code": "pe-gr-53A"
+                    },
+                    {
+                      "number": 4,
+                      "code": "pe-gr-54A"
+                    },
+                    {
+                      "number": 5,
+                      "code": "pe-gr-55A"
+                    },
+                    {
+                      "number": 6,
+                      "code": "pe-gr-56A"
+                    }
+                  ]
+                },
+                {
+                  "number": 6,
+                  "hands": [
+                    {
+                      "number": 1,
+                      "code": "pe-gr-61A"
+                    },
+                    {
+                      "number": 2,
+                      "code": "pe-gr-62A"
+                    },
+                    {
+                      "number": 3,
+                      "code": "pe-gr-63A"
+                    },
+                    {
+                      "number": 4,
+                      "code": "pe-gr-64A"
+                    },
+                    {
+                      "number": 5,
+                      "code": "pe-gr-65A"
+                    },
+                    {
+                      "number": 6,
+                      "code": "pe-gr-66A"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "blue",
+              "legs": [
+                {
+                  "number": 1,
+                  "hands": [
+                    {
+                      "number": 1,
+                      "code": "pe-bl-11A"
+                    },
+                    {
+                      "number": 2,
+                      "code": "pe-bl-12A"
+                    },
+                    {
+                      "number": 3,
+                      "code": "pe-bl-13A"
+                    },
+                    {
+                      "number": 4,
+                      "code": "pe-bl-14A"
+                    },
+                    {
+                      "number": 5,
+                      "code": "pe-bl-15A"
+                    },
+                    {
+                      "number": 6,
+                      "code": "pe-bl-16A"
+                    }
+                  ]
+                },
+                {
+                  "number": 2,
+                  "hands": [
+                    {
+                      "number": 1,
+                      "code": "pe-bl-21A"
+                    },
+                    {
+                      "number": 2,
+                      "code": "pe-bl-22A"
+                    },
+                    {
+                      "number": 3,
+                      "code": "pe-bl-23A"
+                    },
+                    {
+                      "number": 4,
+                      "code": "pe-bl-24A"
+                    },
+                    {
+                      "number": 5,
+                      "code": "pe-bl-25A"
+                    },
+                    {
+                      "number": 6,
+                      "code": "pe-bl-26A"
+                    }
+                  ]
+                },
+                {
+                  "number": 3,
+                  "hands": [
+                    {
+                      "number": 1,
+                      "code": "pe-bl-31A"
+                    },
+                    {
+                      "number": 2,
+                      "code": "pe-bl-32A"
+                    },
+                    {
+                      "number": 3,
+                      "code": "pe-bl-33A"
+                    },
+                    {
+                      "number": 4,
+                      "code": "pe-bl-34A"
+                    },
+                    {
+                      "number": 5,
+                      "code": "pe-bl-35A"
+                    },
+                    {
+                      "number": 6,
+                      "code": "pe-bl-36A"
+                    }
+                  ]
+                },
+                {
+                  "number": 4,
+                  "hands": [
+                    {
+                      "number": 1,
+                      "code": "pe-bl-41A"
+                    },
+                    {
+                      "number": 2,
+                      "code": "pe-bl-42A"
+                    },
+                    {
+                      "number": 3,
+                      "code": "pe-bl-43A"
+                    },
+                    {
+                      "number": 4,
+                      "code": "pe-bl-44A"
+                    },
+                    {
+                      "number": 5,
+                      "code": "pe-bl-45A"
+                    },
+                    {
+                      "number": 6,
+                      "code": "pe-bl-46A"
+                    }
+                  ]
+                },
+                {
+                  "number": 5,
+                  "hands": [
+                    {
+                      "number": 1,
+                      "code": "pe-bl-51A"
+                    },
+                    {
+                      "number": 2,
+                      "code": "pe-bl-52A"
+                    },
+                    {
+                      "number": 3,
+                      "code": "pe-bl-53A"
+                    },
+                    {
+                      "number": 4,
+                      "code": "pe-bl-54A"
+                    },
+                    {
+                      "number": 5,
+                      "code": "pe-bl-55A"
+                    },
+                    {
+                      "number": 6,
+                      "code": "pe-bl-56A"
+                    }
+                  ]
+                },
+                {
+                  "number": 6,
+                  "hands": [
+                    {
+                      "number": 1,
+                      "code": "pe-bl-61A"
+                    },
+                    {
+                      "number": 2,
+                      "code": "pe-bl-62A"
+                    },
+                    {
+                      "number": 3,
+                      "code": "pe-bl-63A"
+                    },
+                    {
+                      "number": 4,
+                      "code": "pe-bl-64A"
+                    },
+                    {
+                      "number": 5,
+                      "code": "pe-bl-65A"
+                    },
+                    {
+                      "number": 6,
+                      "code": "pe-bl-66A"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "crimson",
+              "legs": [
+                {
+                  "number": 1,
+                  "hands": [
+                    {
+                      "number": 1,
+                      "code": "pe-cr-11A"
+                    },
+                    {
+                      "number": 2,
+                      "code": "pe-cr-12A"
+                    },
+                    {
+                      "number": 3,
+                      "code": "pe-cr-13A"
+                    },
+                    {
+                      "number": 4,
+                      "code": "pe-cr-14A"
+                    },
+                    {
+                      "number": 5,
+                      "code": "pe-cr-15A"
+                    },
+                    {
+                      "number": 6,
+                      "code": "pe-cr-16A"
+                    }
+                  ]
+                },
+                {
+                  "number": 2,
+                  "hands": [
+                    {
+                      "number": 1,
+                      "code": "pe-cr-21A"
+                    },
+                    {
+                      "number": 2,
+                      "code": "pe-cr-22A"
+                    },
+                    {
+                      "number": 3,
+                      "code": "pe-cr-23A"
+                    },
+                    {
+                      "number": 4,
+                      "code": "pe-cr-24A"
+                    },
+                    {
+                      "number": 5,
+                      "code": "pe-cr-25A"
+                    },
+                    {
+                      "number": 6,
+                      "code": "pe-cr-26A"
+                    }
+                  ]
+                },
+                {
+                  "number": 3,
+                  "hands": [
+                    {
+                      "number": 1,
+                      "code": "pe-cr-31A"
+                    },
+                    {
+                      "number": 2,
+                      "code": "pe-cr-32A"
+                    },
+                    {
+                      "number": 3,
+                      "code": "pe-cr-33A"
+                    },
+                    {
+                      "number": 4,
+                      "code": "pe-cr-34A"
+                    },
+                    {
+                      "number": 5,
+                      "code": "pe-cr-35A"
+                    },
+                    {
+                      "number": 6,
+                      "code": "pe-cr-36A"
+                    }
+                  ]
+                },
+                {
+                  "number": 4,
+                  "hands": [
+                    {
+                      "number": 1,
+                      "code": "pe-cr-41A"
+                    },
+                    {
+                      "number": 2,
+                      "code": "pe-cr-42A"
+                    },
+                    {
+                      "number": 3,
+                      "code": "pe-cr-43A"
+                    },
+                    {
+                      "number": 4,
+                      "code": "pe-cr-44A"
+                    },
+                    {
+                      "number": 5,
+                      "code": "pe-cr-45A"
+                    },
+                    {
+                      "number": 6,
+                      "code": "pe-cr-46A"
+                    }
+                  ]
+                },
+                {
+                  "number": 5,
+                  "hands": [
+                    {
+                      "number": 1,
+                      "code": "pe-cr-51A"
+                    },
+                    {
+                      "number": 2,
+                      "code": "pe-cr-52A"
+                    },
+                    {
+                      "number": 3,
+                      "code": "pe-cr-53A"
+                    },
+                    {
+                      "number": 4,
+                      "code": "pe-cr-54A"
+                    },
+                    {
+                      "number": 5,
+                      "code": "pe-cr-55A"
+                    },
+                    {
+                      "number": 6,
+                      "code": "pe-cr-56A"
+                    }
+                  ]
+                },
+                {
+                  "number": 6,
+                  "hands": [
+                    {
+                      "number": 1,
+                      "code": "pe-cr-61A"
+                    },
+                    {
+                      "number": 2,
+                      "code": "pe-cr-62A"
+                    },
+                    {
+                      "number": 3,
+                      "code": "pe-cr-63A"
+                    },
+                    {
+                      "number": 4,
+                      "code": "pe-cr-64A"
+                    },
+                    {
+                      "number": 5,
+                      "code": "pe-cr-65A"
+                    },
+                    {
+                      "number": 6,
+                      "code": "pe-cr-66A"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "yellow",
+              "legs": [
+                {
+                  "number": 1,
+                  "hands": [
+                    {
+                      "number": 1,
+                      "code": "pe-ye-11A"
+                    },
+                    {
+                      "number": 2,
+                      "code": "pe-ye-12A"
+                    },
+                    {
+                      "number": 3,
+                      "code": "pe-ye-13A"
+                    },
+                    {
+                      "number": 4,
+                      "code": "pe-ye-14A"
+                    },
+                    {
+                      "number": 5,
+                      "code": "pe-ye-15A"
+                    },
+                    {
+                      "number": 6,
+                      "code": "pe-ye-16A"
+                    }
+                  ]
+                },
+                {
+                  "number": 2,
+                  "hands": [
+                    {
+                      "number": 1,
+                      "code": "pe-ye-21A"
+                    },
+                    {
+                      "number": 2,
+                      "code": "pe-ye-22A"
+                    },
+                    {
+                      "number": 3,
+                      "code": "pe-ye-23A"
+                    },
+                    {
+                      "number": 4,
+                      "code": "pe-ye-24A"
+                    },
+                    {
+                      "number": 5,
+                      "code": "pe-ye-25A"
+                    },
+                    {
+                      "number": 6,
+                      "code": "pe-ye-26A"
+                    }
+                  ]
+                },
+                {
+                  "number": 3,
+                  "hands": [
+                    {
+                      "number": 1,
+                      "code": "pe-ye-31A"
+                    },
+                    {
+                      "number": 2,
+                      "code": "pe-ye-32A"
+                    },
+                    {
+                      "number": 3,
+                      "code": "pe-ye-33A"
+                    },
+                    {
+                      "number": 4,
+                      "code": "pe-ye-34A"
+                    },
+                    {
+                      "number": 5,
+                      "code": "pe-ye-35A"
+                    },
+                    {
+                      "number": 6,
+                      "code": "pe-ye-36A"
+                    }
+                  ]
+                },
+                {
+                  "number": 4,
+                  "hands": [
+                    {
+                      "number": 1,
+                      "code": "pe-ye-41A"
+                    },
+                    {
+                      "number": 2,
+                      "code": "pe-ye-42A"
+                    },
+                    {
+                      "number": 3,
+                      "code": "pe-ye-43A"
+                    },
+                    {
+                      "number": 4,
+                      "code": "pe-ye-44A"
+                    },
+                    {
+                      "number": 5,
+                      "code": "pe-ye-45A"
+                    },
+                    {
+                      "number": 6,
+                      "code": "pe-ye-46A"
+                    }
+                  ]
+                },
+                {
+                  "number": 5,
+                  "hands": [
+                    {
+                      "number": 1,
+                      "code": "pe-ye-51A"
+                    },
+                    {
+                      "number": 2,
+                      "code": "pe-ye-52A"
+                    },
+                    {
+                      "number": 3,
+                      "code": "pe-ye-53A"
+                    },
+                    {
+                      "number": 4,
+                      "code": "pe-ye-54A"
+                    },
+                    {
+                      "number": 5,
+                      "code": "pe-ye-55A"
+                    },
+                    {
+                      "number": 6,
+                      "code": "pe-ye-56A"
+                    }
+                  ]
+                },
+                {
+                  "number": 6,
+                  "hands": [
+                    {
+                      "number": 1,
+                      "code": "pe-ye-61A"
+                    },
+                    {
+                      "number": 2,
+                      "code": "pe-ye-62A"
+                    },
+                    {
+                      "number": 3,
+                      "code": "pe-ye-63A"
+                    },
+                    {
+                      "number": 4,
+                      "code": "pe-ye-64A"
+                    },
+                    {
+                      "number": 5,
+                      "code": "pe-ye-65A"
+                    },
+                    {
+                      "number": 6,
+                      "code": "pe-ye-66A"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "peach",
+              "legs": [
+                {
+                  "number": 1,
+                  "hands": [
+                    {
+                      "number": 1,
+                      "code": "pe-pe-11A"
+                    },
+                    {
+                      "number": 2,
+                      "code": "pe-pe-12A"
+                    },
+                    {
+                      "number": 3,
+                      "code": "pe-pe-13A"
+                    },
+                    {
+                      "number": 4,
+                      "code": "pe-pe-14A"
+                    },
+                    {
+                      "number": 5,
+                      "code": "pe-pe-15A"
+                    },
+                    {
+                      "number": 6,
+                      "code": "pe-pe-16A"
+                    }
+                  ]
+                },
+                {
+                  "number": 2,
+                  "hands": [
+                    {
+                      "number": 1,
+                      "code": "pe-pe-21A"
+                    },
+                    {
+                      "number": 2,
+                      "code": "pe-pe-22A"
+                    },
+                    {
+                      "number": 3,
+                      "code": "pe-pe-23A"
+                    },
+                    {
+                      "number": 4,
+                      "code": "pe-pe-24A"
+                    },
+                    {
+                      "number": 5,
+                      "code": "pe-pe-25A"
+                    },
+                    {
+                      "number": 6,
+                      "code": "pe-pe-26A"
+                    }
+                  ]
+                },
+                {
+                  "number": 3,
+                  "hands": [
+                    {
+                      "number": 1,
+                      "code": "pe-pe-31A"
+                    },
+                    {
+                      "number": 2,
+                      "code": "pe-pe-32A"
+                    },
+                    {
+                      "number": 3,
+                      "code": "pe-pe-33A"
+                    },
+                    {
+                      "number": 4,
+                      "code": "pe-pe-34A"
+                    },
+                    {
+                      "number": 5,
+                      "code": "pe-pe-35A"
+                    },
+                    {
+                      "number": 6,
+                      "code": "pe-pe-36A"
+                    }
+                  ]
+                },
+                {
+                  "number": 4,
+                  "hands": [
+                    {
+                      "number": 1,
+                      "code": "pe-pe-41A"
+                    },
+                    {
+                      "number": 2,
+                      "code": "pe-pe-42A"
+                    },
+                    {
+                      "number": 3,
+                      "code": "pe-pe-43A"
+                    },
+                    {
+                      "number": 4,
+                      "code": "pe-pe-44A"
+                    },
+                    {
+                      "number": 5,
+                      "code": "pe-pe-45A"
+                    },
+                    {
+                      "number": 6,
+                      "code": "pe-pe-46A"
+                    }
+                  ]
+                },
+                {
+                  "number": 5,
+                  "hands": [
+                    {
+                      "number": 1,
+                      "code": "pe-pe-51A"
+                    },
+                    {
+                      "number": 2,
+                      "code": "pe-pe-52A"
+                    },
+                    {
+                      "number": 3,
+                      "code": "pe-pe-53A"
+                    },
+                    {
+                      "number": 4,
+                      "code": "pe-pe-54A"
+                    },
+                    {
+                      "number": 5,
+                      "code": "pe-pe-55A"
+                    },
+                    {
+                      "number": 6,
+                      "code": "pe-pe-56A"
+                    }
+                  ]
+                },
+                {
+                  "number": 6,
+                  "hands": [
+                    {
+                      "number": 1,
+                      "code": "pe-pe-61A"
+                    },
+                    {
+                      "number": 2,
+                      "code": "pe-pe-62A"
+                    },
+                    {
+                      "number": 3,
+                      "code": "pe-pe-63A"
+                    },
+                    {
+                      "number": 4,
+                      "code": "pe-pe-64A"
+                    },
+                    {
+                      "number": 5,
+                      "code": "pe-pe-65A"
+                    },
+                    {
+                      "number": 6,
+                      "code": "pe-pe-66A"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "teal",
+              "legs": [
+                {
+                  "number": 1,
+                  "hands": [
+                    {
+                      "number": 1,
+                      "code": "pe-te-11A"
+                    },
+                    {
+                      "number": 2,
+                      "code": "pe-te-12A"
+                    },
+                    {
+                      "number": 3,
+                      "code": "pe-te-13A"
+                    },
+                    {
+                      "number": 4,
+                      "code": "pe-te-14A"
+                    },
+                    {
+                      "number": 5,
+                      "code": "pe-te-15A"
+                    },
+                    {
+                      "number": 6,
+                      "code": "pe-te-16A"
+                    }
+                  ]
+                },
+                {
+                  "number": 2,
+                  "hands": [
+                    {
+                      "number": 1,
+                      "code": "pe-te-21A"
+                    },
+                    {
+                      "number": 2,
+                      "code": "pe-te-22A"
+                    },
+                    {
+                      "number": 3,
+                      "code": "pe-te-23A"
+                    },
+                    {
+                      "number": 4,
+                      "code": "pe-te-24A"
+                    },
+                    {
+                      "number": 5,
+                      "code": "pe-te-25A"
+                    },
+                    {
+                      "number": 6,
+                      "code": "pe-te-26A"
+                    }
+                  ]
+                },
+                {
+                  "number": 3,
+                  "hands": [
+                    {
+                      "number": 1,
+                      "code": "pe-te-31A"
+                    },
+                    {
+                      "number": 2,
+                      "code": "pe-te-32A"
+                    },
+                    {
+                      "number": 3,
+                      "code": "pe-te-33A"
+                    },
+                    {
+                      "number": 4,
+                      "code": "pe-te-34A"
+                    },
+                    {
+                      "number": 5,
+                      "code": "pe-te-35A"
+                    },
+                    {
+                      "number": 6,
+                      "code": "pe-te-36A"
+                    }
+                  ]
+                },
+                {
+                  "number": 4,
+                  "hands": [
+                    {
+                      "number": 1,
+                      "code": "pe-te-41A"
+                    },
+                    {
+                      "number": 2,
+                      "code": "pe-te-42A"
+                    },
+                    {
+                      "number": 3,
+                      "code": "pe-te-43A"
+                    },
+                    {
+                      "number": 4,
+                      "code": "pe-te-44A"
+                    },
+                    {
+                      "number": 5,
+                      "code": "pe-te-45A"
+                    },
+                    {
+                      "number": 6,
+                      "code": "pe-te-46A"
+                    }
+                  ]
+                },
+                {
+                  "number": 5,
+                  "hands": [
+                    {
+                      "number": 1,
+                      "code": "pe-te-51A"
+                    },
+                    {
+                      "number": 2,
+                      "code": "pe-te-52A"
+                    },
+                    {
+                      "number": 3,
+                      "code": "pe-te-53A"
+                    },
+                    {
+                      "number": 4,
+                      "code": "pe-te-54A"
+                    },
+                    {
+                      "number": 5,
+                      "code": "pe-te-55A"
+                    },
+                    {
+                      "number": 6,
+                      "code": "pe-te-56A"
+                    }
+                  ]
+                },
+                {
+                  "number": 6,
+                  "hands": [
+                    {
+                      "number": 1,
+                      "code": "pe-te-61A"
+                    },
+                    {
+                      "number": 2,
+                      "code": "pe-te-62A"
+                    },
+                    {
+                      "number": 3,
+                      "code": "pe-te-63A"
+                    },
+                    {
+                      "number": 4,
+                      "code": "pe-te-64A"
+                    },
+                    {
+                      "number": 5,
+                      "code": "pe-te-65A"
+                    },
+                    {
+                      "number": 6,
+                      "code": "pe-te-66A"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "shape": "quadrilateral",
+          "color": [
+            {
+              "type": "green",
+              "legs": [
+                {
+                  "number": 1,
+                  "hands": [
+                    {
+                      "number": 1,
+                      "code": "qu-gr-11A"
+                    },
+                    {
+                      "number": 2,
+                      "code": "qu-gr-12A"
+                    },
+                    {
+                      "number": 3,
+                      "code": "qu-gr-13A"
+                    },
+                    {
+                      "number": 4,
+                      "code": "qu-gr-14A"
+                    },
+                    {
+                      "number": 5,
+                      "code": "qu-gr-15A"
+                    },
+                    {
+                      "number": 6,
+                      "code": "qu-gr-16A"
+                    }
+                  ]
+                },
+                {
+                  "number": 2,
+                  "hands": [
+                    {
+                      "number": 1,
+                      "code": "qu-gr-21A"
+                    },
+                    {
+                      "number": 2,
+                      "code": "qu-gr-22A"
+                    },
+                    {
+                      "number": 3,
+                      "code": "qu-gr-23A"
+                    },
+                    {
+                      "number": 4,
+                      "code": "qu-gr-24A"
+                    },
+                    {
+                      "number": 5,
+                      "code": "qu-gr-25A"
+                    },
+                    {
+                      "number": 6,
+                      "code": "qu-gr-26A"
+                    }
+                  ]
+                },
+                {
+                  "number": 3,
+                  "hands": [
+                    {
+                      "number": 1,
+                      "code": "qu-gr-31A"
+                    },
+                    {
+                      "number": 2,
+                      "code": "qu-gr-32A"
+                    },
+                    {
+                      "number": 3,
+                      "code": "qu-gr-33A"
+                    },
+                    {
+                      "number": 4,
+                      "code": "qu-gr-34A"
+                    },
+                    {
+                      "number": 5,
+                      "code": "qu-gr-35A"
+                    },
+                    {
+                      "number": 6,
+                      "code": "qu-gr-36A"
+                    }
+                  ]
+                },
+                {
+                  "number": 4,
+                  "hands": [
+                    {
+                      "number": 1,
+                      "code": "qu-gr-41A"
+                    },
+                    {
+                      "number": 2,
+                      "code": "qu-gr-42A"
+                    },
+                    {
+                      "number": 3,
+                      "code": "qu-gr-43A"
+                    },
+                    {
+                      "number": 4,
+                      "code": "qu-gr-44A"
+                    },
+                    {
+                      "number": 5,
+                      "code": "qu-gr-45A"
+                    },
+                    {
+                      "number": 6,
+                      "code": "qu-gr-46A"
+                    }
+                  ]
+                },
+                {
+                  "number": 5,
+                  "hands": [
+                    {
+                      "number": 1,
+                      "code": "qu-gr-51A"
+                    },
+                    {
+                      "number": 2,
+                      "code": "qu-gr-52A"
+                    },
+                    {
+                      "number": 3,
+                      "code": "qu-gr-53A"
+                    },
+                    {
+                      "number": 4,
+                      "code": "qu-gr-54A"
+                    },
+                    {
+                      "number": 5,
+                      "code": "qu-gr-55A"
+                    },
+                    {
+                      "number": 6,
+                      "code": "qu-gr-56A"
+                    }
+                  ]
+                },
+                {
+                  "number": 6,
+                  "hands": [
+                    {
+                      "number": 1,
+                      "code": "qu-gr-61A"
+                    },
+                    {
+                      "number": 2,
+                      "code": "qu-gr-62A"
+                    },
+                    {
+                      "number": 3,
+                      "code": "qu-gr-63A"
+                    },
+                    {
+                      "number": 4,
+                      "code": "qu-gr-64A"
+                    },
+                    {
+                      "number": 5,
+                      "code": "qu-gr-65A"
+                    },
+                    {
+                      "number": 6,
+                      "code": "qu-gr-66A"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "blue",
+              "legs": [
+                {
+                  "number": 1,
+                  "hands": [
+                    {
+                      "number": 1,
+                      "code": "qu-bl-11A"
+                    },
+                    {
+                      "number": 2,
+                      "code": "qu-bl-12A"
+                    },
+                    {
+                      "number": 3,
+                      "code": "qu-bl-13A"
+                    },
+                    {
+                      "number": 4,
+                      "code": "qu-bl-14A"
+                    },
+                    {
+                      "number": 5,
+                      "code": "qu-bl-15A"
+                    },
+                    {
+                      "number": 6,
+                      "code": "qu-bl-16A"
+                    }
+                  ]
+                },
+                {
+                  "number": 2,
+                  "hands": [
+                    {
+                      "number": 1,
+                      "code": "qu-bl-21A"
+                    },
+                    {
+                      "number": 2,
+                      "code": "qu-bl-22A"
+                    },
+                    {
+                      "number": 3,
+                      "code": "qu-bl-23A"
+                    },
+                    {
+                      "number": 4,
+                      "code": "qu-bl-24A"
+                    },
+                    {
+                      "number": 5,
+                      "code": "qu-bl-25A"
+                    },
+                    {
+                      "number": 6,
+                      "code": "qu-bl-26A"
+                    }
+                  ]
+                },
+                {
+                  "number": 3,
+                  "hands": [
+                    {
+                      "number": 1,
+                      "code": "qu-bl-31A"
+                    },
+                    {
+                      "number": 2,
+                      "code": "qu-bl-32A"
+                    },
+                    {
+                      "number": 3,
+                      "code": "qu-bl-33A"
+                    },
+                    {
+                      "number": 4,
+                      "code": "qu-bl-34A"
+                    },
+                    {
+                      "number": 5,
+                      "code": "qu-bl-35A"
+                    },
+                    {
+                      "number": 6,
+                      "code": "qu-bl-36A"
+                    }
+                  ]
+                },
+                {
+                  "number": 4,
+                  "hands": [
+                    {
+                      "number": 1,
+                      "code": "qu-bl-41A"
+                    },
+                    {
+                      "number": 2,
+                      "code": "qu-bl-42A"
+                    },
+                    {
+                      "number": 3,
+                      "code": "qu-bl-43A"
+                    },
+                    {
+                      "number": 4,
+                      "code": "qu-bl-44A"
+                    },
+                    {
+                      "number": 5,
+                      "code": "qu-bl-45A"
+                    },
+                    {
+                      "number": 6,
+                      "code": "qu-bl-46A"
+                    }
+                  ]
+                },
+                {
+                  "number": 5,
+                  "hands": [
+                    {
+                      "number": 1,
+                      "code": "qu-bl-51A"
+                    },
+                    {
+                      "number": 2,
+                      "code": "qu-bl-52A"
+                    },
+                    {
+                      "number": 3,
+                      "code": "qu-bl-53A"
+                    },
+                    {
+                      "number": 4,
+                      "code": "qu-bl-54A"
+                    },
+                    {
+                      "number": 5,
+                      "code": "qu-bl-55A"
+                    },
+                    {
+                      "number": 6,
+                      "code": "qu-bl-56A"
+                    }
+                  ]
+                },
+                {
+                  "number": 6,
+                  "hands": [
+                    {
+                      "number": 1,
+                      "code": "qu-bl-61A"
+                    },
+                    {
+                      "number": 2,
+                      "code": "qu-bl-62A"
+                    },
+                    {
+                      "number": 3,
+                      "code": "qu-bl-63A"
+                    },
+                    {
+                      "number": 4,
+                      "code": "qu-bl-64A"
+                    },
+                    {
+                      "number": 5,
+                      "code": "qu-bl-65A"
+                    },
+                    {
+                      "number": 6,
+                      "code": "qu-bl-66A"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "crimson",
+              "legs": [
+                {
+                  "number": 1,
+                  "hands": [
+                    {
+                      "number": 1,
+                      "code": "qu-cr-11A"
+                    },
+                    {
+                      "number": 2,
+                      "code": "qu-cr-12A"
+                    },
+                    {
+                      "number": 3,
+                      "code": "qu-cr-13A"
+                    },
+                    {
+                      "number": 4,
+                      "code": "qu-cr-14A"
+                    },
+                    {
+                      "number": 5,
+                      "code": "qu-cr-15A"
+                    },
+                    {
+                      "number": 6,
+                      "code": "qu-cr-16A"
+                    }
+                  ]
+                },
+                {
+                  "number": 2,
+                  "hands": [
+                    {
+                      "number": 1,
+                      "code": "qu-cr-21A"
+                    },
+                    {
+                      "number": 2,
+                      "code": "qu-cr-22A"
+                    },
+                    {
+                      "number": 3,
+                      "code": "qu-cr-23A"
+                    },
+                    {
+                      "number": 4,
+                      "code": "qu-cr-24A"
+                    },
+                    {
+                      "number": 5,
+                      "code": "qu-cr-25A"
+                    },
+                    {
+                      "number": 6,
+                      "code": "qu-cr-26A"
+                    }
+                  ]
+                },
+                {
+                  "number": 3,
+                  "hands": [
+                    {
+                      "number": 1,
+                      "code": "qu-cr-31A"
+                    },
+                    {
+                      "number": 2,
+                      "code": "qu-cr-32A"
+                    },
+                    {
+                      "number": 3,
+                      "code": "qu-cr-33A"
+                    },
+                    {
+                      "number": 4,
+                      "code": "qu-cr-34A"
+                    },
+                    {
+                      "number": 5,
+                      "code": "qu-cr-35A"
+                    },
+                    {
+                      "number": 6,
+                      "code": "qu-cr-36A"
+                    }
+                  ]
+                },
+                {
+                  "number": 4,
+                  "hands": [
+                    {
+                      "number": 1,
+                      "code": "qu-cr-41A"
+                    },
+                    {
+                      "number": 2,
+                      "code": "qu-cr-42A"
+                    },
+                    {
+                      "number": 3,
+                      "code": "qu-cr-43A"
+                    },
+                    {
+                      "number": 4,
+                      "code": "qu-cr-44A"
+                    },
+                    {
+                      "number": 5,
+                      "code": "qu-cr-45A"
+                    },
+                    {
+                      "number": 6,
+                      "code": "qu-cr-46A"
+                    }
+                  ]
+                },
+                {
+                  "number": 5,
+                  "hands": [
+                    {
+                      "number": 1,
+                      "code": "qu-cr-51A"
+                    },
+                    {
+                      "number": 2,
+                      "code": "qu-cr-52A"
+                    },
+                    {
+                      "number": 3,
+                      "code": "qu-cr-53A"
+                    },
+                    {
+                      "number": 4,
+                      "code": "qu-cr-54A"
+                    },
+                    {
+                      "number": 5,
+                      "code": "qu-cr-55A"
+                    },
+                    {
+                      "number": 6,
+                      "code": "qu-cr-56A"
+                    }
+                  ]
+                },
+                {
+                  "number": 6,
+                  "hands": [
+                    {
+                      "number": 1,
+                      "code": "qu-cr-61A"
+                    },
+                    {
+                      "number": 2,
+                      "code": "qu-cr-62A"
+                    },
+                    {
+                      "number": 3,
+                      "code": "qu-cr-63A"
+                    },
+                    {
+                      "number": 4,
+                      "code": "qu-cr-64A"
+                    },
+                    {
+                      "number": 5,
+                      "code": "qu-cr-65A"
+                    },
+                    {
+                      "number": 6,
+                      "code": "qu-cr-66A"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "yellow",
+              "legs": [
+                {
+                  "number": 1,
+                  "hands": [
+                    {
+                      "number": 1,
+                      "code": "qu-ye-11A"
+                    },
+                    {
+                      "number": 2,
+                      "code": "qu-ye-12A"
+                    },
+                    {
+                      "number": 3,
+                      "code": "qu-ye-13A"
+                    },
+                    {
+                      "number": 4,
+                      "code": "qu-ye-14A"
+                    },
+                    {
+                      "number": 5,
+                      "code": "qu-ye-15A"
+                    },
+                    {
+                      "number": 6,
+                      "code": "qu-ye-16A"
+                    }
+                  ]
+                },
+                {
+                  "number": 2,
+                  "hands": [
+                    {
+                      "number": 1,
+                      "code": "qu-ye-21A"
+                    },
+                    {
+                      "number": 2,
+                      "code": "qu-ye-22A"
+                    },
+                    {
+                      "number": 3,
+                      "code": "qu-ye-23A"
+                    },
+                    {
+                      "number": 4,
+                      "code": "qu-ye-24A"
+                    },
+                    {
+                      "number": 5,
+                      "code": "qu-ye-25A"
+                    },
+                    {
+                      "number": 6,
+                      "code": "qu-ye-26A"
+                    }
+                  ]
+                },
+                {
+                  "number": 3,
+                  "hands": [
+                    {
+                      "number": 1,
+                      "code": "qu-ye-31A"
+                    },
+                    {
+                      "number": 2,
+                      "code": "qu-ye-32A"
+                    },
+                    {
+                      "number": 3,
+                      "code": "qu-ye-33A"
+                    },
+                    {
+                      "number": 4,
+                      "code": "qu-ye-34A"
+                    },
+                    {
+                      "number": 5,
+                      "code": "qu-ye-35A"
+                    },
+                    {
+                      "number": 6,
+                      "code": "qu-ye-36A"
+                    }
+                  ]
+                },
+                {
+                  "number": 4,
+                  "hands": [
+                    {
+                      "number": 1,
+                      "code": "qu-ye-41A"
+                    },
+                    {
+                      "number": 2,
+                      "code": "qu-ye-42A"
+                    },
+                    {
+                      "number": 3,
+                      "code": "qu-ye-43A"
+                    },
+                    {
+                      "number": 4,
+                      "code": "qu-ye-44A"
+                    },
+                    {
+                      "number": 5,
+                      "code": "qu-ye-45A"
+                    },
+                    {
+                      "number": 6,
+                      "code": "qu-ye-46A"
+                    }
+                  ]
+                },
+                {
+                  "number": 5,
+                  "hands": [
+                    {
+                      "number": 1,
+                      "code": "qu-ye-51A"
+                    },
+                    {
+                      "number": 2,
+                      "code": "qu-ye-52A"
+                    },
+                    {
+                      "number": 3,
+                      "code": "qu-ye-53A"
+                    },
+                    {
+                      "number": 4,
+                      "code": "qu-ye-54A"
+                    },
+                    {
+                      "number": 5,
+                      "code": "qu-ye-55A"
+                    },
+                    {
+                      "number": 6,
+                      "code": "qu-ye-56A"
+                    }
+                  ]
+                },
+                {
+                  "number": 6,
+                  "hands": [
+                    {
+                      "number": 1,
+                      "code": "qu-ye-61A"
+                    },
+                    {
+                      "number": 2,
+                      "code": "qu-ye-62A"
+                    },
+                    {
+                      "number": 3,
+                      "code": "qu-ye-63A"
+                    },
+                    {
+                      "number": 4,
+                      "code": "qu-ye-64A"
+                    },
+                    {
+                      "number": 5,
+                      "code": "qu-ye-65A"
+                    },
+                    {
+                      "number": 6,
+                      "code": "qu-ye-66A"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "peach",
+              "legs": [
+                {
+                  "number": 1,
+                  "hands": [
+                    {
+                      "number": 1,
+                      "code": "qu-pe-11A"
+                    },
+                    {
+                      "number": 2,
+                      "code": "qu-pe-12A"
+                    },
+                    {
+                      "number": 3,
+                      "code": "qu-pe-13A"
+                    },
+                    {
+                      "number": 4,
+                      "code": "qu-pe-14A"
+                    },
+                    {
+                      "number": 5,
+                      "code": "qu-pe-15A"
+                    },
+                    {
+                      "number": 6,
+                      "code": "qu-pe-16A"
+                    }
+                  ]
+                },
+                {
+                  "number": 2,
+                  "hands": [
+                    {
+                      "number": 1,
+                      "code": "qu-pe-21A"
+                    },
+                    {
+                      "number": 2,
+                      "code": "qu-pe-22A"
+                    },
+                    {
+                      "number": 3,
+                      "code": "qu-pe-23A"
+                    },
+                    {
+                      "number": 4,
+                      "code": "qu-pe-24A"
+                    },
+                    {
+                      "number": 5,
+                      "code": "qu-pe-25A"
+                    },
+                    {
+                      "number": 6,
+                      "code": "qu-pe-26A"
+                    }
+                  ]
+                },
+                {
+                  "number": 3,
+                  "hands": [
+                    {
+                      "number": 1,
+                      "code": "qu-pe-31A"
+                    },
+                    {
+                      "number": 2,
+                      "code": "qu-pe-32A"
+                    },
+                    {
+                      "number": 3,
+                      "code": "qu-pe-33A"
+                    },
+                    {
+                      "number": 4,
+                      "code": "qu-pe-34A"
+                    },
+                    {
+                      "number": 5,
+                      "code": "qu-pe-35A"
+                    },
+                    {
+                      "number": 6,
+                      "code": "qu-pe-36A"
+                    }
+                  ]
+                },
+                {
+                  "number": 4,
+                  "hands": [
+                    {
+                      "number": 1,
+                      "code": "qu-pe-41A"
+                    },
+                    {
+                      "number": 2,
+                      "code": "qu-pe-42A"
+                    },
+                    {
+                      "number": 3,
+                      "code": "qu-pe-43A"
+                    },
+                    {
+                      "number": 4,
+                      "code": "qu-pe-44A"
+                    },
+                    {
+                      "number": 5,
+                      "code": "qu-pe-45A"
+                    },
+                    {
+                      "number": 6,
+                      "code": "qu-pe-46A"
+                    }
+                  ]
+                },
+                {
+                  "number": 5,
+                  "hands": [
+                    {
+                      "number": 1,
+                      "code": "qu-pe-51A"
+                    },
+                    {
+                      "number": 2,
+                      "code": "qu-pe-52A"
+                    },
+                    {
+                      "number": 3,
+                      "code": "qu-pe-53A"
+                    },
+                    {
+                      "number": 4,
+                      "code": "qu-pe-54A"
+                    },
+                    {
+                      "number": 5,
+                      "code": "qu-pe-55A"
+                    },
+                    {
+                      "number": 6,
+                      "code": "qu-pe-56A"
+                    }
+                  ]
+                },
+                {
+                  "number": 6,
+                  "hands": [
+                    {
+                      "number": 1,
+                      "code": "qu-pe-61A"
+                    },
+                    {
+                      "number": 2,
+                      "code": "qu-pe-62A"
+                    },
+                    {
+                      "number": 3,
+                      "code": "qu-pe-63A"
+                    },
+                    {
+                      "number": 4,
+                      "code": "qu-pe-64A"
+                    },
+                    {
+                      "number": 5,
+                      "code": "qu-pe-65A"
+                    },
+                    {
+                      "number": 6,
+                      "code": "qu-pe-66A"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "teal",
+              "legs": [
+                {
+                  "number": 1,
+                  "hands": [
+                    {
+                      "number": 1,
+                      "code": "qu-te-11A"
+                    },
+                    {
+                      "number": 2,
+                      "code": "qu-te-12A"
+                    },
+                    {
+                      "number": 3,
+                      "code": "qu-te-13A"
+                    },
+                    {
+                      "number": 4,
+                      "code": "qu-te-14A"
+                    },
+                    {
+                      "number": 5,
+                      "code": "qu-te-15A"
+                    },
+                    {
+                      "number": 6,
+                      "code": "qu-te-16A"
+                    }
+                  ]
+                },
+                {
+                  "number": 2,
+                  "hands": [
+                    {
+                      "number": 1,
+                      "code": "qu-te-21A"
+                    },
+                    {
+                      "number": 2,
+                      "code": "qu-te-22A"
+                    },
+                    {
+                      "number": 3,
+                      "code": "qu-te-23A"
+                    },
+                    {
+                      "number": 4,
+                      "code": "qu-te-24A"
+                    },
+                    {
+                      "number": 5,
+                      "code": "qu-te-25A"
+                    },
+                    {
+                      "number": 6,
+                      "code": "qu-te-26A"
+                    }
+                  ]
+                },
+                {
+                  "number": 3,
+                  "hands": [
+                    {
+                      "number": 1,
+                      "code": "qu-te-31A"
+                    },
+                    {
+                      "number": 2,
+                      "code": "qu-te-32A"
+                    },
+                    {
+                      "number": 3,
+                      "code": "qu-te-33A"
+                    },
+                    {
+                      "number": 4,
+                      "code": "qu-te-34A"
+                    },
+                    {
+                      "number": 5,
+                      "code": "qu-te-35A"
+                    },
+                    {
+                      "number": 6,
+                      "code": "qu-te-36A"
+                    }
+                  ]
+                },
+                {
+                  "number": 4,
+                  "hands": [
+                    {
+                      "number": 1,
+                      "code": "qu-te-41A"
+                    },
+                    {
+                      "number": 2,
+                      "code": "qu-te-42A"
+                    },
+                    {
+                      "number": 3,
+                      "code": "qu-te-43A"
+                    },
+                    {
+                      "number": 4,
+                      "code": "qu-te-44A"
+                    },
+                    {
+                      "number": 5,
+                      "code": "qu-te-45A"
+                    },
+                    {
+                      "number": 6,
+                      "code": "qu-te-46A"
+                    }
+                  ]
+                },
+                {
+                  "number": 5,
+                  "hands": [
+                    {
+                      "number": 1,
+                      "code": "qu-te-51A"
+                    },
+                    {
+                      "number": 2,
+                      "code": "qu-te-52A"
+                    },
+                    {
+                      "number": 3,
+                      "code": "qu-te-53A"
+                    },
+                    {
+                      "number": 4,
+                      "code": "qu-te-54A"
+                    },
+                    {
+                      "number": 5,
+                      "code": "qu-te-55A"
+                    },
+                    {
+                      "number": 6,
+                      "code": "qu-te-56A"
+                    }
+                  ]
+                },
+                {
+                  "number": 6,
+                  "hands": [
+                    {
+                      "number": 1,
+                      "code": "qu-te-61A"
+                    },
+                    {
+                      "number": 2,
+                      "code": "qu-te-62A"
+                    },
+                    {
+                      "number": 3,
+                      "code": "qu-te-63A"
+                    },
+                    {
+                      "number": 4,
+                      "code": "qu-te-64A"
+                    },
+                    {
+                      "number": 5,
+                      "code": "qu-te-65A"
+                    },
+                    {
+                      "number": 6,
+                      "code": "qu-te-66A"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+    ]
